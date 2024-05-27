@@ -1,0 +1,25 @@
+<span style="color:purple;">Necromancer</span>: Able to manipulate the dead, the Necromancer can revive nearby corpses to
+rejoin the fight, although on its side this time. As long as the corpses still exist, the
+Necromancer will bring them back to life, fully healed and ready for combat. They will retain
+almost everything they had in their life, including their abilities. The Necromancer can prove
+extremely valuable in many fights, bringing back the stronger fallen creatures to do battle
+for it, making it able to defeat things many times stronger than itself.
+
+Pressing Prone(X) will revive all nearby corpses, restoring their tier and variant, allowing
+them to fight for the Necromancer for a short time. They are set to Attack My Target and
+Follow Me by default.
+
+-----
+Cooldown: 30s
+Stamina Cost: 10%
+Corpse Revive Range: 2400 (8 Foundations)
+Minion Duration: 60s
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 45.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: true

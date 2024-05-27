@@ -1,0 +1,20 @@
+<span style="color:lightgreen;">Pygmy</span>: Tiny terrors. Pygmys are a miniature version of their species, but don't let that fool
+you. Many pygmys can be packed into a very small area, and all Pygmys gain a pack bonus
+will all others regardless of Species. Prepare your tiny army!
+
+Pygmy creatures cannot be ridden!
+
+-----
+Melee Damage Increase = 1 * (1 + (0.2 x Number of Pygmys))
+Damage Taken = (1 / (0.2 x Number of Pygmys))
+Max Pygmy Bonus: 30
+Pygmy Bonus Range: 1800 (6 Foundations)
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: true

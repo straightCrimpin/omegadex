@@ -1,0 +1,24 @@
+<span style="color:blue;">Starfire</span>: Starfire creatures are able to create a small star that deals insane tick damage in
+an area. This star will set enemies on fire, and illuminate a massive area at night.
+Nightmare creatures are often afraid of this star, making them potentially lose their night
+time abilities or their willingness to attack. Starfire is one of the more powerful damage
+dealers over time.
+
+Pressing Prone(X) creates a powerful star, which illuminates a huge area at night as well as
+dealing significant damage from the heat.
+
+-----
+Cooldown: 30s
+Stamina Cost: 30%
+Starfire Duration: 10 Seconds
+Starfire Radius: 3000 (10 Foundations)
+Starfire Tick Damage: 50% of Ability Damage Every 1/2 Second As Fire Damage
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 60.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: true

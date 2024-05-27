@@ -1,0 +1,23 @@
+Name: Otter
+Base Damage: 10
+Rarity Group Number: 9
+Paragon Shard Value: 2
+
+Uniques:
+Unique Name: Coldsnap
+Variants: Ice / Water
+Spawn Weight: 1.0
+
+Unique Name: Nugget
+Variants: Tsunami / Cloner
+Spawn Weight: 0.5
+
+Unique Name: Revenous
+Variants: Rampage / Pygmy
+Spawn Weight: 0.5
+
+Food Types:
+Raw Fish Meat
+Cooked Fish Meat
+Cooked Prime Fish Meat
+Raw Prime Fish Meat

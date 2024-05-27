@@ -1,0 +1,30 @@
+Ark Omega Ascended 5/14 Patch Notes: 
+
+-Removed the increased "affected" radius on the tornado that lifts enemies off of the ground, and increased the damage radius to make everything uniform and harder to glitch.
+-Fixed the missing files causing the DodoRex to be invisible.
+-Support for SE creatures added: Oil Jug Bug, Water Jug Bug.
+-Removed the Low-Health settings class from Doeds that were making them immune to melee damage when balled.
+-Fixed a bug preventing some variants from displaying in the variant list for dinos/souls in the admin panel spawn commands.
+-Fixed a bug causing All-Stat/All-Type Potions to not work correctly on post-tame stats due to failing the 254 stat check.
+-Fixed a bug preventing stat potions from giving double stat multipliers to uniques.
+-Fixed a bug causing All-Stat/All-Type potions from giving mutation points in stats other than health.
+-Dino Mindwipe potion removed from the mod.
+-Token Of The Fallen God removed from the mod.
+-Fixed a crash that could happen when opening the soul grinder inventory.
+-The skin prevention skin crafting cost has been changed from 1 token of the fallen god to 1000 hide.
+-Paragon soul quest rewards now always round up instead of down, so the lowest multiplier of 0.5 doesn't round down to zero (old quest scrolls are unaffected)..
+-Quantum Entanglement/String Theory chance to hit targets in an area will no longer hit the initial target twice.
+-Removed the Light Rendering on the Waterburst particle to reduce the performance hit it can cause.
+-Greatly reduced the number of individual water bubble particles on Waterburst to reduce the performance hit it can cause.
+-Improved the particle scaling on Waterburst to look better overall.
+-Fixed a bug that could cause Unique Totems to get piled full of things from Void vacuums if in "all item" or medallion modes.
+-Paragon level multiplier reductions on NPCs removed. They will no longer treat your tame as if it has reduced paragon levels.
+-Minibosses will no longer offer Saddle Tokens as a reward type (until re-added).
+-Fixed the tier labels on Unique Tokens.
+-Minibosses will now correctly drop Unique Tokens when killed.
+-Implemented a number of double check to try to fix the Unique/Legendary net gun causing crashes when the flare is shot.
+-Paragon kill quest added to kill dinos from a group that is the same or stronger, helping favor weaker tames.
+-Basic information added to the dinos tab on the Omegadex to show the group number for the new kill quest.
+-Paragon tab added to the guide that explains the paragon quests and what the requirements are.
+-Masters now have a random variant from their group (that isn't a 7th variant) added, instead of their 7th variant (or paragon, if 7th variant Master).
+-Tames now lose a tier when killed instead of their paragon souls. All tames other than base tier will be sent to the reliquary when killed.

@@ -1,0 +1,24 @@
+Name: Woolly Rhino
+Base Damage: 40
+Rarity Group Number: 5
+Paragon Shard Value: 6
+
+Uniques:
+Unique Name: Bulldozer
+Variants: Metal / Knockback
+Spawn Weight: 1.0
+
+Unique Name: Pain Train
+Variants: Colossus / Stalker
+Spawn Weight: 0.25
+
+Food Types:
+Amarberry
+Azulberry
+Tintoberry
+Mejoberry
+Base Veggie
+Sweet Vegetable Cake
+Cianberry
+Magenberry
+Verdberry

@@ -1,0 +1,23 @@
+<span style="color:purple;">Overlord</span>: The boss. Overlord's have dominion over any lesser creature of their species.
+When they call, a small horde of minions will appear of the same species as the Overlord,
+ready to fight for it to the death. These minions are smaller and slower, but the group of
+them is much stronger than the Overlord itself.
+
+Pressing Prone(X) will summon minions at reduced size and speed. These minions will
+behave exactly as the Overlord, and are set to Attack My Target and Follow Me by default.
+
+-----
+Cooldown: 45s
+Stamina Cost: 40%
+Number of Minions: 5 Wild, 4 Tamed
+Minion Size: 40%
+Minion Duration: 20s
+
+Variant Information:
+Spawn Chance: 01.7%
+
+Other Information:
+Cooldown 1: 30.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: true

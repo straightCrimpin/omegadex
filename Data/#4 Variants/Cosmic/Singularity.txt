@@ -1,0 +1,29 @@
+<span style="color:blue;">Singularity</span>: One of the worst things that can happen to you or your tames is being trapped
+in a Singularity. When a Singularity creature summons a black hole, it can rip enemies
+right up off of the ground, trapping them in the center while crushing them to death. A
+singularity will even pick up fish out of the ocean, killing them. Fortunately, its also makes
+for an absolutely devistating tame, as the singularity is not only able to deal great damage
+to enemies, but will trap them and prevent them from moving at the same time.
+
+Pressing Prone(X) will create a singularity in front of you. This will have a very powerful
+gravity force, that will grab enemies off of the ground, sucking them in and crushing them
+until the singularity is gone.
+
+-----
+Cooldown: 30s
+Stamina Cost: 30%
+Singularity Initial Collapse Radius: 3000 (1 0 Foundations)
+Singularity Duration: 15 Seconds
+Singularity Radius: 3000 (10 Foundations)
+Singularity Damage: 50% of Ability Damage Every 1/2 Second for 15 Seconds as
+Explosive Damage.
+All Singularity Creatures are Immune to the Gravity Effect.
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 60.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: true

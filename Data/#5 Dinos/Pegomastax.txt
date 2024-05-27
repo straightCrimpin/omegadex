@@ -1,0 +1,22 @@
+Name: Pegomastax
+Base Damage: 10
+Rarity Group Number: 7
+Paragon Shard Value: 4
+
+Uniques:
+Unique Name: Famine
+Variants: Stalker / Taming
+Spawn Weight: 1.0
+
+Food Types:
+Amarberry
+Azulberry
+Tintoberry
+Mejoberry
+Base Veggie
+Sweet Vegetable Cake
+Cianberry
+Magenberry
+Verdberry
+
+Additional Information: Passive tame. It must steal kibble from your last inventory slot to be tamed.

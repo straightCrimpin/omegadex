@@ -1,0 +1,25 @@
+<span style="color:red;">Frenzy</span>: Frenzy creatures make amazing allies. They have a powerful warcry that applies a
+temporary boost to nearby allied creatures, increasing their damage output. While it only
+lasts a short while, its enough to turn the battle when multiple creatures are used. This
+effect can also stack, meaning multiple warcries are enough to turn a small group into
+killing machines.
+
+Pressing Prone(X) will cause the Frenzy creature to Warcry, increasing damage output for
+all allies in the area. Can Stack up to 3 times.
+
+-----
+Cooldown: 30s
+Stamina Cost: 25%
+Warcry Radius: 3000 (10 Foundations)
+Warcry Duration: 15s
+Warcry Damage Bonus: 75%
+Maximum Warcry Stacks: 3
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 30.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: true

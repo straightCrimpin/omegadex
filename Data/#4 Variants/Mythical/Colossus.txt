@@ -1,0 +1,26 @@
+<span style="color:lightgreen;">Colossus</span>: Massive creatures, significantly larger than original. They have greatly
+increased attack range, with ones able to land on the ground also being able to perform a
+powerful stomp attack on anything in the area. The stomp will not effect flyers or water
+creatures in the area.
+
+Pressing Prone(X) with a Colossus dino currently on the ground will perform a powerful
+ground stomp, also damaging other creatures on the ground. Water creatures and
+creatures currently flying cannot use the stomp, but are not effected by it either.
+
+-----
+Cooldown: 30s
+Stamina Cost: 25%
+Range: 2100 (7 foundations)
+Damage: 300% of Ability damage.
+All Incoming Damage Reduced By 50%.
+All Outgoing Melee Damage Is Increased By 100%.
+Colossus size, weight, attack ranges increased by: 300%
+
+Variant Information:
+Spawn Chance: 02.55%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

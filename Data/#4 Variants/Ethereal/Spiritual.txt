@@ -1,0 +1,19 @@
+<span style="color:lightgray;">Spiritual</span>: While spiritual doesn't have a special ability, it makes up for it in other ways.
+Spiritual creatures are much faster than other variants, can carry more weight, and do not
+use stamina for movement including sprinting. These are the go-to mount for ease of
+taming and the ability to travel anywhere quickly while holding almost any amount of
+weight.
+
+-----
+Does not use stamina for movement.
+Weight Bonus: 1Ox
+Speed Bonus: 2x
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

@@ -1,0 +1,23 @@
+Name: Unicorn
+Base Damage: 9
+Rarity Group Number: 6
+Paragon Shard Value: 5
+
+Uniques:
+Unique Name: Innocence
+Variants: Soul / Essence
+Spawn Weight: 1.0
+
+Food Types:
+Amarberry
+Azulberry
+Tintoberry
+Mejoberry
+Rockarrot
+Sweet Vegetable Cake
+Base Veggie
+Cianberry
+Magenberry
+Verdberry
+
+Additional Information: Primary attack causes Uberbleed.

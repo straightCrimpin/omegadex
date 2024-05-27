@@ -1,0 +1,22 @@
+<span style="color:lightgray;">Teleporter</span>: Teleporter creatures are able to travel short distances in a flash. They will
+teleport when hit unless ridden, to a random location in front of them. This will do explosive
+AOE damage at both the location it teleported away from, and the location it teleported to.
+
+Pressing Prone(X) will instantly teleport. Holding Prone(X) will show the location indicator
+on where you are going to teleport to, and releasing will teleport you there.
+Stamina Cost to teleport: 5%
+
+-----
+Cooldown: 1s
+AOE damage: 100% of Ability Damage.
+AOE radius: 600 (2 foundations)
+Chance to Teleport when hit: 33%
+
+Variant Information:
+Spawn Chance: 02.13%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

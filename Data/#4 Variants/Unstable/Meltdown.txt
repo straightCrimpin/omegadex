@@ -1,0 +1,21 @@
+<span style="color:orange;">Meltdown</span>: A very high potential, yet very dangerous ability. Meltdown creatures can
+overheat themselves, sacrificing their own health, to deal stacking damage to enemies in
+the immediate area.
+
+Holding Prone(X) will force you into Meltdown mode. You will lose health in Meltdown
+mode, and the rate at which health is lost will speed up the longer you are in Meltdown, but
+the damage also increases the longer you are in Meltdown.
+
+-----
+Health Cost Per Second: 0.5% + 0.5% Per Second.
+Damage Per Second: 50% of Ability Damage + 12.5% of Ability Damage Per Second.
+Meltdown Radius: 1800 (6 Foundations).
+
+Variant Information:
+Spawn Chance: 01.28%
+
+Other Information:
+Cooldown 1: 60.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: true

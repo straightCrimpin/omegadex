@@ -1,0 +1,24 @@
+Name: Triceratops
+Base Damage: 32
+Rarity Group Number: 8
+Paragon Shard Value: 3
+
+Uniques:
+Unique Name: Pollution
+Variants: Earthburst / Windburst
+Spawn Weight: 1.0
+
+Unique Name: Scooby
+Variants: Dimensional / Vampire
+Spawn Weight: 1.0
+
+Food Types:
+Amarberry
+Azulberry
+Tintoberry
+Mejoberry
+Base Veggie
+Sweet Vegetable Cake
+Cianberry
+Magenberry
+Verdberry

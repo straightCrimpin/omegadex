@@ -1,0 +1,4 @@
+Additional Info:
+The Defender buff is similar to a reverse rampage. The meter increases when you take
+damage, and reduces both incoming damage and increases outgoing damage.
+Dealing damage will reset the meter.

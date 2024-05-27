@@ -1,0 +1,19 @@
+Name: Quetzal
+Base Damage: 32
+Rarity Group Number: 4
+Paragon Shard Value: 7
+
+Uniques:
+Unique Name: Debris
+Variants: Tornado / Familiar
+Spawn Weight: 1.0
+
+Unique Name: Guten
+Variants: Thunderstorm / Spiritual
+Spawn Weight: 1.0
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

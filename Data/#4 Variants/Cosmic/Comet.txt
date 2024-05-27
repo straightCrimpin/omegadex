@@ -1,0 +1,24 @@
+<span style="color:blue;">Comet</span>: One large Comet. These creatures will create a single large comet that crashes into
+the ground in front of them. A direct hit means incredible damage is dealt, while an indirect
+impact will cause damage based on proximity to the Comet. Comet can make excellent
+boss fighters with their high direct-hit impact.
+
+Pressing Prone(X) calls down a single Comet, which can deal great impact damage if it
+does a direct hit, with lesser damage for indirect hits.
+
+-----
+Cooldown: 30s
+Stamina Cost: 30%
+Comet Impact Damage: 1000% of Ability Damage
+Comet Impact Radius: 600 (2 foundations)
+AOE Impact Radius: 3000 (10 Foundations)
+AOE Impact Damage: 100% of Ability Damage.
+
+Variant Information:
+Spawn Chance: 01.7%
+
+Other Information:
+Cooldown 1: 30.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: true

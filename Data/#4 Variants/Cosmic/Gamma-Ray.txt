@@ -1,0 +1,24 @@
+<span style="color:blue;">Gamma-Ray</span>: Similar to Starfire in damage output, Gamma-Ray tears a hole in the sky to
+allow powerful gamma-rays to strike the ground, dealing reactive tick damage to enemies
+in the area.
+
+Pressing Prone(X) forces a Gamma-Ray to strike the ground in front of you, dealing tick
+damage to anything nearby until it goes away. The damage is dealt in a vertical cylinder in
+the location of the Gamma-Ray.
+
+-----
+Cooldown: 30s
+Stamina Cost: 30%
+Gamma-Ray Duration: 10s
+Gamma-Ray Radius: 1200 (4 Foundations)
+Gamma-Ray Height: 6000 (20 Foundations)
+Gamma-Ray Damage: 50% of Ability Damage Every 1/2 Second as Reactive Damage.
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 30.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: true

@@ -1,0 +1,19 @@
+Name: Direwolf
+Base Damage: 33
+Rarity Group Number: 6
+Paragon Shard Value: 5
+
+Uniques:
+Unique Name: Frostbite
+Variants: Iceburst / Zombie
+Spawn Weight: 1.0
+
+Unique Name: Chernobyl
+Variants: Plague / Meltdown
+Spawn Weight: 0.5
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

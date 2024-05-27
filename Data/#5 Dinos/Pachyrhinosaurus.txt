@@ -1,0 +1,21 @@
+Name: Pachyrhinosaurus
+Base Damage: 28
+Rarity Group Number: 8
+Paragon Shard Value: 3
+
+Uniques:
+Unique Name: Imp
+Variants: Boogeyman / Treasure
+Spawn Weight: 1.0
+
+Food Types:
+Amarberry
+Azulberry
+Tintoberry
+Mejoberry
+Base Veggie
+Sweet Vegetable Cake
+Bug Repellant
+Cianberry
+Magenberry
+Verdberry

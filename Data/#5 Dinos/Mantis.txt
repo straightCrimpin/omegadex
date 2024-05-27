@@ -1,0 +1,19 @@
+Name: Mantis
+Base Damage: 34
+Rarity Group Number: 6
+Paragon Shard Value: 5
+
+Uniques:
+Unique Name: Edward
+Variants: Metal / Paragon
+Spawn Weight: 1.0
+
+Food Types:
+Spoiled Meat
+Raw Meat
+Deathworm Horn
+Woolly Rhino Horn
+
+Additional Information: Can only equip weapons that do not require an engram to be equipped. The Mantis
+will not inherit the damage type of any weapon that deals more than 50% of its damage as torpor. It will
+also not gain any bonuses of Unique/Legendary weapons as they do not actually equip the weapon itself.

@@ -1,0 +1,21 @@
+<span style="color:yellow;">Ice</span>: Launches an ice projectile that can slow and eventually freeze enemies if hitting them
+in succession.
+
+-----
+Cooldown: 3s
+Stamina Cost: 5%
+Weak Against (2x damage taken): Fire
+Resists (0.5x damage taken): Ice, Wind
+Projecitle Speed: 2250
+Projectile AOE Explosion Radius: 900 (3 foundations)
+Projectile Damage: lx Attack Damage
+Projectile Effect: Slows and eventually freezes targets.
+
+Variant Information:
+Spawn Chance: 01.28%
+
+Other Information:
+Cooldown 1: 3.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

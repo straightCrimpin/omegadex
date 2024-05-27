@@ -1,0 +1,28 @@
+Name: Therizinosaur
+Base Damage: 52
+Rarity Group Number: 4
+Paragon Shard Value: 7
+
+Uniques:
+Unique Name: Greed
+Variants: Colossus / Harvesting
+Spawn Weight: 1.0
+
+Unique Name: Psycho
+Variants: Uncontrollable / Rampage
+Spawn Weight: 0.25
+
+Unique Name: Jester
+Variants: Comet / Resilient
+Spawn Weight: 1.0
+
+Food Types:
+Amarberry
+Azulberry
+Tintoberry
+Mejoberry
+Base Veggie
+Sweet Vegetable Cake
+Cianberry
+Magenberry
+Verdberry

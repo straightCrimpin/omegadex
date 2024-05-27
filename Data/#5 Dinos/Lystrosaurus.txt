@@ -1,0 +1,20 @@
+Name: Lystrosaurus
+Base Damage: 6
+Rarity Group Number: 9
+Paragon Shard Value: 2
+
+Uniques:
+Unique Name: Collider
+Variants: Gorgon / Comet
+Spawn Weight: 1.0
+
+Food Types:
+Amarberry
+Azulberry
+Tintoberry
+Mejoberry
+Base Veggie
+Rare Flower
+Cianberry
+Magenberry
+Verdberry

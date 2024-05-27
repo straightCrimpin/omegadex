@@ -1,0 +1,15 @@
+Name: Yutyrannus
+Base Damage: 55
+Rarity Group Number: 3
+Paragon Shard Value: 8
+
+Uniques:
+Unique Name: Novastrike
+Variants: Overlord / Supernova
+Spawn Weight: 1.0
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

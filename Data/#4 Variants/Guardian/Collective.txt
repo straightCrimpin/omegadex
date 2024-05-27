@@ -1,0 +1,28 @@
+<span style="color:gray;">Collective</span>: Collective creatures serve many purposes. The main one being to punish
+damage dealers with their own damage. A collective dino is capable of going temporarily
+immortal, gathering and biding all damage taken over a short period, before exploding it
+back out evenly amongst all nearby enemies. Even weaker collective creature are
+temporarily immortal to bosses, making them cheap expendable ways of punishing high
+damage creatures.
+
+Pressing Prone(X) will activate the Collective ability, making the creature immune to all
+incoming damage for a period. The damage will add over the duration, and on deactivation
+will be exploded back outwards, divided up evenly amongst enemies. If there is only 1
+enemy, it will take the full collected damage. If there are 10, they will each take 10% of the
+collected damage.
+
+-----
+Cooldown: 30s
+Stamina Cost: 10%
+Duration: 15s
+Explosion Radius: 3000 (10 foundations)
+Collecting Above Max Health Triggers Explosion.
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 60.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: false

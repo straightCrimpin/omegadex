@@ -1,0 +1,24 @@
+Name: Mammoth
+Base Damage: 48
+Rarity Group Number: 4
+Paragon Shard Value: 7
+
+Uniques:
+Unique Name: Mercury
+Variants: Fireburst / Metal
+Spawn Weight: 1.0
+
+Unique Name: Mammoroth
+Variants: Colossus / Phoenix
+Spawn Weight: 0.5
+
+Food Types:
+Amarberry
+Azulberry
+Tintoberry
+Mejoberry
+Base Veggie
+Sweet Vegetable Cake
+Cianberry
+Magenberry
+Verdberry

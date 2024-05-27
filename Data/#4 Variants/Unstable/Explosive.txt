@@ -1,0 +1,22 @@
+<span style="color:orange;">Explosive</span>: As it sounds, these creatures can cause powerful explosions at any minute. Both
+while attacking or being attacked, these explosions may trigger doing damage over a large
+area as if a Grenade has gone off. Its best to avoid them unless prepared, as the explosion
+damage can destroy most structures as well.
+
+Pressing Prone(X) will release an explosion, as if caused by C4 or a large grenade. The
+closer to the source, the higher the damage.
+
+-----
+Cooldown: 10s
+Stamina Cost: 10%
+Explosion Damage: 300% of Ability Damage as Explosive Damage
+Explosion Radius: 3000 (10 Foundations)
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

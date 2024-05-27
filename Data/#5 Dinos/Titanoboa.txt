@@ -1,0 +1,12 @@
+Name: Titanoboa
+Base Damage: 30
+Rarity Group Number: 9
+Paragon Shard Value: 2
+
+Uniques:
+Unique Name: Menace
+Variants: Thunderstorm / Pearl
+Spawn Weight: 1.0
+
+Food Types:
+Dinosaur Egg

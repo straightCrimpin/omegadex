@@ -1,0 +1,15 @@
+Name: Piranha
+Base Damage: 22
+Rarity Group Number: 9
+Paragon Shard Value: 2
+
+Uniques:
+Unique Name: Swarm
+Variants: Overlord / Uncontrollable
+Spawn Weight: 1.0
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

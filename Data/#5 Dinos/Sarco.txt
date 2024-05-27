@@ -1,0 +1,23 @@
+Name: Sarco
+Base Damage: 35
+Rarity Group Number: 6
+Paragon Shard Value: 5
+
+Uniques:
+Unique Name: Oblivion
+Variants: Starfire / Gamma-Ray
+Spawn Weight: 1.0
+
+Unique Name: Leatherhead
+Variants: Colossus / Paragon
+Spawn Weight: 1.0
+
+Food Types:
+Raw Fish Meat
+Cooked Fish Meat
+Cooked Prime Fish Meat
+Raw Prime Fish Meat
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

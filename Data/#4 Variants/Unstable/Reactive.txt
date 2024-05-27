@@ -1,0 +1,20 @@
+<span style="color:orange;">Reactive</span>: Water is both the enemy and best friend of these creatures, as they have a violent
+interaction with it. When raining or entering water, the Reactive creature will start to emit a
+powerful aura of radiation and heat, doing passive damage to anything in the area. While a
+proven method for farming creatures, it can also draw unwanted aggro from enemies in the
+area that would otherwise not attack. Shortly after exiting the water, or the rain stops, the
+reaction will subside and the creature will go back to normal.
+
+-----
+Reaction occurs when the Reactive creature gets wet.
+Reactive AOE Damage: 100% of Attack Damage Per Second
+Reactive AOE Radius: 1500 (5 Foundations)
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 5.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

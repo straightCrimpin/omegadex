@@ -1,0 +1,15 @@
+<span style="color:orange;">Self-Destructive</span>: Self-Destructive creatures live to die. While they have no particular
+special abilities, they do explode on death, dealing damage based on their maximum health.
+
+-----
+Self-Destruct Damage: 300% of Maximum Health
+Self-Destruct Radius: 3000 (10 Foundations)
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 15.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: true

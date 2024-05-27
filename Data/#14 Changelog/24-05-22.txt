@@ -1,0 +1,53 @@
+Ark Omega Ascended 5/22 Patch Notes:
+
+-Support for SE creatures added: Rock Elemental.
+-Fixed a bug causing jug bugs to crash when tamed.
+-Added Breeding paragon quests.
+-Added Variant Paragon Souls and their quests.
+-Added a double check system on the variants to try make sure that bosses and wild dinos spawn at maximum health.
+-Hexenized item quality removed.
+-Dodowyverns no longer change colors.
+-Removed text on the fragmenter that says it can fragment quests.
+-Implemented yet more things on quest scrolls to make sure the minimum a reward can ever be is 1.
+-Revived Phoenix dinos no longer give kill credit.
+-Fixed a bug preventing healing darts from firing.
+-Updated the crafting list for crafting dinos.
+-Updated the variant info on a handful of variants in the omegadex to remove/change outdated information.
+-Fixed a bug with Lightningburst showing Earthburst on spyglasses.
+-Imbue workbench slot count increased to 1000.
+-Removed the requirement that wild dinos must be awake to drop items.
+-Fixed a bug allowing babies to count towards kill quests.
+-Fixed a bug causing dinos that normally drop items when killed in vanilla to not work properly with the Loot variant.
+-Fixed a bug allowing Masters to spawn with a single variant and greatly reduced stats.
+-The cryopods used in the reliquary have been remapped to a custom version that doesn't have any of the vanilla requirements (cryofridge, sickness, cooldown, etc).
+-Implemented safety checks on the unique/legendary net gun to make sure they can only display a set number of dinos at once, to help with the crashing.
+-You can now select the boss tier when using a variant soul in the beacon.
+-Ichthyornis will no longer unequip your weapon when attacking.
+-Ichthyornis can no longer steal souls of any kind.
+-Unique Medallions (Set/Affinity) can now be fragmented for Unique fragments.
+-Fixed a typo in Elite essence.
+-Fixed a bug with weirdness involving Ramshackle loot and set mannequins.
+-Variant Paragon Soul added to the admin panel spawn commands.
+-The Altar is now unlocked upon killing a Master.
+-Updated sound attenuation settings on a handful of effects to they cannot be heard anywhere in render distance: Familiar, Overlord, Banshee. 
+-Fixed missing animations on the DodoRex.
+-"Omega Spyglass" courtesy of Nanoh added. This is not a replacement for modded spyglasses, simply a starter item that lets you see what you're dealing with more readily (it can be crafted in play inventory).
+-Fixed a failed cast that was causing Overseer to not properly summon the explosive minions.
+-Rebalanced Druid, since its initial damage multiplier was based on it having a low variant multiplier in ASE.
+-Reduced the glow strength on the Olympian NPCs. 
+-Unique Charm drops re-enabled.
+-Fixed a bug where uniques would not get paragon quest credit for killing a miniboss with the required variant.
+-Fixed a bug with the void vacuum not emptying its inventory when doing a transfer.
+-Re-timed the AI override for minibosses to make sure they don't get their default AI controller on server restarts.
+-Override the Miniboss AI to ensure that they will attempt to attack the player from the correct range.
+-Made changes to the miniboss AI to make them try to hold aggro longer.
+-Ridden jug bugs can now attack while on the ground. 
+-Ridden jug bug attacks now have a cooldown.
+-Jug bugs can now always attack while wild instead of only when their resources are full.
+-Fixed the material missing on the Master cuboid mesh.
+-Fixed a bug with the auto-fragmenting option on set mannequins not returning set fragments because of an invalid file path check for them.
+-Fixed a bug with rider scaling issues when mounting a DodoRex.
+-Singularity cooldown increased from 30s to 60s, tick damage doubled, and tick interval increased from 0.5s to 1s. 
+-Soul Scream particle is now local space and stays with the player.
+-Control cooldowns increased to 30s/30s.
+-Previously undamageable structures now take 1 damage when hit (even in PVP).

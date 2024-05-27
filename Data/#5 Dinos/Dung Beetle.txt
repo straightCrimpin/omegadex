@@ -1,0 +1,17 @@
+Name: Dung Beetle
+Base Damage: 7
+Rarity Group Number: 10
+Paragon Shard Value: 1
+
+Uniques:
+Unique Name: Scarab
+Variants: Earth / Obsidian
+Spawn Weight: 1.0
+
+Food Types:
+Spoiled Meat
+Raw Meat
+Human Feces
+Small Animal Feces
+Medium Animal Feces
+Large Animal Feces

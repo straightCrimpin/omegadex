@@ -1,0 +1,19 @@
+Name: Meganeura
+Base Damage: 10
+Rarity Group Number: 8
+Paragon Shard Value: 3
+
+Uniques:
+Unique Name: Ninja
+Variants: Tracker / Spectral
+Spawn Weight: 1.0
+
+Unique Name: Rox
+Variants: Overlord / Warp
+Spawn Weight: 0.5
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

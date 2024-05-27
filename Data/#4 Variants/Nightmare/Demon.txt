@@ -1,0 +1,24 @@
+<span style="color:black;">Demon</span>: The 7th Variant of Nightmare. Demon's have the ability to possess enemies, taking
+control of them, causing damage to them, using them to attack other enemies or allies, and
+more. While possessing another enemy, the demon cannot be damaged, and its location
+marked by a black soul.
+
+Pressing Prone(X) will possess the targeted enemy, taking control of it for a short duration.
+During this time, you can use it to attack other enemies, or just sit idle with it allowing your
+allies to attack it.
+
+-----
+Cooldown: 30s
+Stamina Cost: 10%
+Debuff Duration: 15s
+Enemy Damage Taken: 175%
+Maximum Number of Stacks: 3
+
+Variant Information:
+Spawn Chance: 00.09%
+
+Other Information:
+Cooldown 1: 15.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: true

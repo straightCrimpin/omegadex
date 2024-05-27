@@ -1,0 +1,20 @@
+<span style="color:gray;">Shield</span> : These are portable Tek Shields. They create a rapidly expanding shield that gives
+asylum to all nearby allies, keeping enemies out. As the shield expands it will push enemies
+away, making sure none are trapped within.
+
+Pressing Prone (X) will create an expanding Tek Shield, pushing away enemies and
+protecting allies. Nothing can pass through the shield, not even projectiles.
+
+-----
+Cooldown: 60s
+Stamina Drain Per Second: 5%
+Radius: 2400 (8 Foundations)
+
+Variant Information:
+Spawn Chance: 02.13%
+
+Other Information:
+Cooldown 1: 60.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: true

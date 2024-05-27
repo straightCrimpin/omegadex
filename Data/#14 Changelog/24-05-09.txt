@@ -1,0 +1,13 @@
+Ark Omega Ascended 5/9 Patch Notes: 
+
+-Fixed a bug with tornado constantly trying to add/remove the gravity force buff that pulls enemies off of the ground, causing a crash. 
+-Updated the math on the tornado to better drag/sling picked up enemies without meshing them into eachother.
+-Fixed a bug with the quest completion information not being sent to your player to give you the rewards.
+-Fixed a bug preventing boss souls from doing anything once fed to your tame.
+-4 new unique dinos added.
+-Fixed a bug preventing Unique Tokens from working in the beacon.
+-Updated some of the items in the Item tab on the guide.
+-Fixed a bug potentially causing potion dinos to not properly feed potions.
+-Fixed a bug causing quests in loot chests to not have an associated dino species.
+-All Ark Omega structures are now damageable when playing PVP.
+-Replaced the vulture inventory component to allow it to hold items other than spoiled meat.

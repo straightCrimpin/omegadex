@@ -1,0 +1,29 @@
+<span style="color:orange;">Nuclear</span>: The 7th Variant of Unstable. Similar to Meltdown, this allows you to sacrifice
+some of your own health to build up damage. But things here are a bit more interesting.
+Releasing the ability key, or reaching the limit, causes an explosion which deals a great
+deal of damage over a great area. This is the largest AOE attack in Ark Omega, and one of
+the highest damage multipliers, but use it carefully.
+
+Holding Prone(X) will force you into Nuclear Meltdown mode. You will lose health in
+Nuclear Meltdown mode, and the rate at which health is lost will speed up the longer you
+are in Meltdown, but the damage also increases the longer you are in Meltdown.
+
+-----
+Cooldown: 30s
+Stamina Cost: 50%
+Maximum Nuclear Meltdown Duration: 10s
+Minimum Nuclear Meltdown Duration To Explode: 3s
+Health Lost Per Second Of Nuclear Meltdown: 2.5%
+Nuclear Explosion Damage Per Second of Meltdown: 300% of Ability Damage.
+Maximum Nuclear Explosion Damage: 3000% of Ability Damage.
+Nuclear Explosion Radius Per Second of Meltdown: 900 (3 Foundations).
+maximum Nuclear Explosion Radius: 9000 (30 Foundations).
+
+Variant Information:
+Spawn Chance: 00.09%
+
+Other Information:
+Cooldown 1: 45.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: true

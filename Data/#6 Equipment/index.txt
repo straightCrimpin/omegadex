@@ -1,0 +1,2 @@
+This is a section containing information on most dynamic items in the mod. Click an
+item category in the first column to populate the second column with subtypes.

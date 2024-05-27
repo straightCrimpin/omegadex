@@ -1,0 +1,24 @@
+<span style="color:brown;">Harvesting</span>: Harvesting creatures are able to harvest anything in sight. Even a Harvesting
+Rex can harvest stone, wood, and berries. They're meant to make gathering extremely quick
+and easy, reducing the need to boost harvesting rates (which would just obselete this
+variant).
+
+Pressing Prone(X) does an area attack that harvests all nearby resources.
+
+-----
+Cooldown: 5s
+Stamina Cost: 10%
+AOE attack damage: 100%
+Harvest Area: 1800 (6 Foundations)
+Carnivores Harvest as a Hatchet
+Herbivores Harvest as a Pick
+Additional Weight Multiplier: 5x
+
+Variant Information:
+Spawn Chance: 00.43%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

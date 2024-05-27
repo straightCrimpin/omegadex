@@ -1,0 +1,26 @@
+<span style="color:green;">Earthquake</span>: The 7th Variant of Nature. Creating an Earthquake has a lot of effects, from a
+screenshaking quake that applies stun, to all 6 Nature damage types spewing from the
+fissures in the ground directly on all enemies caught in the Earthquake. While it has
+minimal effect on flying enemies, it can be very damaging to ground based tames.
+
+Pressing Prone(X) causes the ground to shake, stunning all enemies in the quake radius
+and creating a fissure at the base of each ground dino in the fissure, dealing a random
+Nature damage type.
+
+-----
+Cooldown: 30s
+Stamina Cost: 50%
+Earthquake Duration: 10s
+Earthquake Radius: 3000 (10 Foundations)
+Stun Duration: 2s, applied every 4 seconds.
+Fissure Damage: 100% of Ability Damage dealt as a random Nature damage type.
+No Limit to the number of fissures within range.
+
+Variant Information:
+Spawn Chance: 00.09%
+
+Other Information:
+Cooldown 1: 30.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: true

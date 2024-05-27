@@ -1,0 +1,20 @@
+Name: Giganotosaurus
+Base Damage: 186
+Rarity Group Number: 1
+Paragon Shard Value: 10
+Raid Torpor: Can only take torpor from raid torpor sources.
+
+Uniques:
+Unique Name: War
+Variants: Frenzy / Random
+Spawn Weight: 1.0
+
+Unique Name: Gigagon
+Variants: Colossus / Paragon
+Spawn Weight: 0.25
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

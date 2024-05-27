@@ -1,0 +1,24 @@
+Name: Dire Bear
+Base Damage: 50
+Rarity Group Number: 5
+Paragon Shard Value: 6
+
+Uniques:
+Unique Name: Pooh
+Variants: Wood / Harvesting
+Spawn Weight: 1.0
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat
+Amarberry
+Azulberry
+Mejoberry
+Tintoberry
+Base Veggie
+Giant Bee Honey
+Cianberry
+Magenberry
+Verdberry

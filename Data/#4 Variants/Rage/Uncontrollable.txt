@@ -1,0 +1,23 @@
+<span style="color:red;">Uncontrollable</span>: The most ruthless creatures in Ark Omega. Uncontrollables have very high
+stat multipliers that have no equal. They are highly aggressive, attacking any/all nearby
+enemies without fear for their own life. Wild uncontrollables will actively hunt players and
+tames. They are very fast, with a lot of health and damage. The name Uncontrollable comes
+from the fact that once tamed, they cannot be ridden, cannot be ordered or whistled, and will
+wander off to kill things while ignoring all of your commands. A powerful saddle on these
+creatures turns them into a death machine, able to easily take on bosses with nothing more
+than the occasional healing dart to give them a boost.
+
+-----
+Cannot be Ridden
+Cannot be Ordered
+All Incoming Damage Reduced By 75%.
+All Outgoing Melee Damage Is Increased By 300%.
+
+Variant Information:
+Spawn Chance: 01.7%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: false

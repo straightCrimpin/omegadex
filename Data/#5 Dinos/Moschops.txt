@@ -1,0 +1,27 @@
+Name: Moschops
+Base Damage: 32
+Rarity Group Number: 7
+Paragon Shard Value: 4
+
+Uniques:
+Unique Name: Medic
+Variants: Shield / Fairy
+Spawn Weight: 1.0
+
+Unique Name: Whowie
+Variants: Rampage / Stalker
+Spawn Weight: 0.5
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat
+Amarberry
+Azulberry
+Mejoberry
+Tintoberry
+Base Veggie
+Cianberry
+Magenberry
+Verdberry

@@ -1,0 +1,22 @@
+<span style="color:yellow;">Water</span>: Launches a water projectile that will drain the oxygen of targets, dealing additional
+damage if their oxygen has been depleted. Water creatures cannot drown.
+
+-----
+Cooldown: 3s
+Stamina Cost: 5%
+Weak Against (2x damage taken): Lightning
+Resists (0.5x damage taken): Water, Fire
+Projecitle Speed: 2250
+Projectile AOE Explosion Radius: 600 (2 foundations)
+Projectile Damage: lx Ability Damage
+Projectile Tick: 25% of Ability Damage Per Tick as Water Damage (Oxygen Drain) for 6
+ticks.
+
+Variant Information:
+Spawn Chance: 01.7%
+
+Other Information:
+Cooldown 1: 3.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

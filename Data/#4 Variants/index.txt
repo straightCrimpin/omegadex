@@ -1,0 +1,29 @@
+Groups and Variants
+
+A list of all groups, and the variants within them, along with some misc data.
+Tiers and their stat multipliers:
+
+------------------
+1. Basic - lx
+2. Delta - 2x
+3. Gamma - 4x
+4. Beta - 8x
+5. Alpha - 16x
+6. Elite - 32x
+7. Prime - 64x
+8. Apex - 128x
+9. Ultimate - 256x
+10. Ancient - 512x
+11. Endless - 1024x
+12. Omega - 2048x
+------------------
+
+How to Unlock each Tier:
+
+-Basic through Elite spawn wild and can be tamed with appropriate kibble. You can
+upgrade your current tames to the next highest tier, up to Elite, by crafting a rank up token
+in the soul grinder using a Paragon soul of your tame's species.
+-Prime is unlocked by killing a Boss summoned from the beacon and feeding the soul to
+an Elite of the same variant.
+-Apex is unlocked by killing a Master summoned from the beacon and feeding the soul to
+a Prime of the same variant.

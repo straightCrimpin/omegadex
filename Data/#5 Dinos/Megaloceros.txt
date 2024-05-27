@@ -1,0 +1,24 @@
+Name: Megaloceros
+Base Damage: 30
+Rarity Group Number: 8
+Paragon Shard Value: 3
+
+Uniques:
+Unique Name: Dryad
+Variants: Reflect / Fairy
+Spawn Weight: 1.0
+
+Unique Name: Chesty Puller
+Variants: Supernova / Obsidian
+Spawn Weight: 0.5
+
+Food Types:
+Amarberry
+Azulberry
+Tintoberry
+Mejoberry
+Base Veggie
+Sweet Vegetable Cake
+Cianberry
+Magenberry
+Verdberry

@@ -1,0 +1,23 @@
+<span style="color:yellow;">Lightning</span>: Launches a lightning projectile that can electrocute enemies on impact. The
+projectile is not effected by gravity.
+
+-----
+Cooldown: 3s
+Stamina Cost: 5%
+Weak Against (2x damage taken): Earth
+Resists (0.5x damage taken): Lighting, Water
+Projectile has no gravity drop.
+Projecitle speed: 2250
+Projectile AOE Explosion Radius: 600 (2 foundations)
+Projectile Damage: lx Ability Damage
+Projectile Tick: 25% of Ability Damage Per Tick as Lightning Damage (Electrocution) for 5
+ticks.
+
+Variant Information:
+Spawn Chance: 01.7%
+
+Other Information:
+Cooldown 1: 30.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: true

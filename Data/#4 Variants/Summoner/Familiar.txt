@@ -1,0 +1,24 @@
+<span style="color:purple;">Familiar</span>: Many minions! The Familiar can summon a large group of angry bats, hell-bent
+on killing anything in the area. This swarm increases in numbers based on Tier, as does the
+individual strength of each bat.
+
+Pressing Prone(X) will summon a group of Uncontrollable Onycs that will instantly begin
+attacking all enemies in the area for a short time. They will spawn at the same Tier as the
+Familiar creature.
+
+-----
+Cooldown: 60s
+Stamina Cost: 40%
+Number of Familiars: 5 + 1 Per Tier
+Familiar Duration: 20s
+Familiar Base Health: 250
+Familiar Base Damage: 10% of its Summoner's damage.
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

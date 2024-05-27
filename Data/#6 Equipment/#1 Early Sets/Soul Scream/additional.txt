@@ -1,0 +1,3 @@
+Additional Info:
+Astral Debuffs are: Slow, Stun, And Curse.
+Dimensional Vision removes water, it does not allow flying.

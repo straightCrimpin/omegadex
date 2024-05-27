@@ -1,0 +1,31 @@
+<span style="color:gray;">Absorbent</span>: Absorbent creatures are the ultimate tanks. They have a large health bonus,
+and reduced damage to compensate. They protect all nearby allies within their absorbent
+bubble, where all damage done to any ally is redirected to the absorbent creature. Even
+players within the bubble can dismount from their tame and join the fight, completely
+immune to damage. These are amazing strategy creatures, as even weaker creatures with
+high damage can join into boss fights without worry of death. Stacking various potions
+and high quality saddle imbues on an Absorbent dino can make sure that nothing else
+takes any damage for the duration of a boss fight.
+
+Pressing Prone(X) will toggle the Absorbent Bubble. It has no cooldown timer, but instead
+drains stamina over time, so stamina potions are highly recommended as the bubble will
+deactivate once stamina has been depleted. Any and all damage done to any allied
+creature within the bubble will be redirected to the Absorbent.
+
+Note: Absorbent and Guardian creatures cannot be protected by other Absorbents or
+Guardians.
+
+-----
+Stamina Drain Per Second: 3%
+Protection Radius: 2100 (7 foundations)
+Additional Health Multiplier: 7.5x (1 5x overall health multiplier)
+Additional Damage Multiplier: 0.1x (20% of normal damage output)
+
+Variant Information:
+Spawn Chance: 01.28%
+
+Other Information:
+Cooldown 1: 3.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

@@ -1,0 +1,15 @@
+Name: Sabertooth Salmon
+Base Damage: 8
+Rarity Group Number: 10
+Paragon Shard Value: 1
+
+Uniques:
+Unique Name: Fluke
+Variants: Teleporter / Random
+Spawn Weight: 1.0
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

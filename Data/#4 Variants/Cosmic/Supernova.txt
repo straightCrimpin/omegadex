@@ -1,0 +1,22 @@
+<span style="color:blue;">Supernova</span>: A massive AOE damage dealer. During combat, they can release a powerful
+Supernova blast that deals devistating damage to enemies and causes a very brief stun. Its
+best to avoid a Supernova creature until you're ready.
+
+Pressing Prone(X) causes a massive Supernova explosion, dealing significant damage to
+anything in the area along with a short stun.
+
+-----
+Cooldown: 15s
+Stamina Cost: 25%
+Supernova Damage: 800% of Ability Damage as Explosive Damage.
+Supernova Radius: 3000 (10 Foundations)
+Stun Length: 2s
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 30.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: true

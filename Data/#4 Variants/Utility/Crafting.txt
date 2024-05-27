@@ -1,0 +1,19 @@
+<span style="color:brown;">Crafting</span>: Crafting creatures provide a much needed service. They have a crafting tab in
+their inventory that contains nearly all engrams for everything in the Smithy, Fabricator, and
+Omega Workbench. They also get a huge boost to crafting speed based on their tier,
+meaning they can be used to bypass the Omega Workbench later in the game and craft all
+of your items at rapid speed.
+
+-----
+Gains Crafting inventory of: Smithy, Fabricator, Omega Workbench, Kibble Machine,
+Replicator
+Crafting Speed Bonus: (200 x Tier)%
+
+Variant Information:
+Spawn Chance: 00.43%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

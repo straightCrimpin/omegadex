@@ -1,0 +1,21 @@
+Name: Microraptor
+Base Damage: 8
+Rarity Group Number: 9
+Paragon Shard Value: 2
+
+Uniques:
+Unique Name: Flash
+Variants: Lightningburst / Spiritual
+Spawn Weight: 1.0
+
+Unique Name: Octavia
+Variants: Meteor / Supernova
+Spawn Weight: 0.25
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat
+Rare Flower
+Rare Mushroom

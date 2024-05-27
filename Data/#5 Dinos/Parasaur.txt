@@ -1,0 +1,24 @@
+Name: Parasaur
+Base Damage: 12
+Rarity Group Number: 9
+Paragon Shard Value: 2
+
+Uniques:
+Unique Name: Lust
+Variants: Breeding / Pearl
+Spawn Weight: 1.0
+
+Unique Name: Nanoh
+Variants: Absorbent / Soul
+Spawn Weight: 0.25
+
+Food Types:
+Amarberry
+Azulberry
+Tintoberry
+Mejoberry
+Base Veggie
+Sweet Vegetable Cake
+Cianberry
+Magenberry
+Verdberry

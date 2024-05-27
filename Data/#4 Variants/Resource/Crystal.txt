@@ -1,0 +1,26 @@
+<span style="color:lightgray;">Crystal</span>: Made of crystal, passively produce and poop crystal. Taking damage may cause
+it to break off shards, dealing explosion damage in an area and applying a Splintered
+debuff that further increases damage from shards.
+
+-----
+Elemental Weakness: Wind
+Harvested For: Crystal
+Drag weight increased: 3x
+Amount of resource passively produced in inventory every 5 minutes: Tier x 10
+Damage Reduction: 80% (20% damage taken)
+Damage Taken by Elemental Weakness: 100%
+Damage Taken by Multi-Tool: 200%
+Shard Damage: 50% of Ability damage.
+Shard Explosion Radius: 900 (3 foundations)
+Splintered Debuff increases damage from shards by 5%, and can stack 100x.
+Shard Chance %: (Damage Taken/Max Health) * 2000
+Shard Chance increases by 10% for each hit that does not produce a shard.
+
+Variant Information:
+Spawn Chance: 02.55%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

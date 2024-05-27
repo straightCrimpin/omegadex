@@ -1,0 +1,15 @@
+Name: Allosaurus
+Base Damage: 35
+Rarity Group Number: 5
+Paragon Shard Value: 6
+
+Uniques:
+Unique Name: Wrath
+Variants: Meteor / Thunderstorm
+Spawn Weight: 1.0
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

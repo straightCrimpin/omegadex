@@ -1,0 +1,21 @@
+<span style="color:purple;">Cloner</span>: Similar to Overlord, but against enemies, create multiple clones of your nearest
+enemy.lf the enemy is much stronger than you are, it can clone that enemy, forcing to fight
+itself.
+
+Pressing Prone(X) clones the nearest enemy, forcing them to do battle with a copy of
+themselves.
+
+-----
+Cooldown: 30s
+Stamina Cost: 10%
+Number of Clones created: 4
+Enemy scan radius (Enemy Clone): 2100 (7 Foundations)
+
+Variant Information:
+Spawn Chance: 01.7%
+
+Other Information:
+Cooldown 1: 30.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: true

@@ -1,0 +1,23 @@
+Name: Spino
+Base Damage: 50
+Rarity Group Number: 3
+Paragon Shard Value: 8
+
+Uniques:
+Unique Name: Biohazard
+Variants: Plague / Detonate
+Spawn Weight: 1.0
+
+Unique Name: The Lord Of Slaps
+Variants: Thunderstorm / Brutal
+Spawn Weight: 1.0
+
+Food Types:
+Raw Fish Meat
+Cooked Fish Meat
+Cooked Prime Fish Meat
+Raw Prime Fish Meat
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

@@ -1,0 +1,21 @@
+Getting Started (Things You Must Know)
+
+So you've just started playing, and don't know where to begin. First off, there will be many new and dangerous creatures wandering around and you may not know how to
+get started taming them.
+
+1 . The first goal should be to craft an Omega Workbench. This contains most of the items specific to Ark Omega. This includes custom equipment, potions, tranqs, and
+structures.
+
+2. Begin gathering souls and essence. These are rewarded to all players in the area when a wild dino is killed. You will get 1 soul corresponding to the group of the killed
+dino, plus 5 essence corresponding to the tier, Wild dinos will NOT reward souls and essence if knocked out before being killed. Souls and essence are used to craft nearly
+every item in Ark Omega.
+
+3. Use your souls and essence to craft the custom weapons in the Omega Workbench. The Multi-Tool acts as an upgrade to the gathering tool, acting as pickaxe, hatchet,
+club and sickle all in one.
+
+4. Next step is to craft a kibble station, used to craft every kibble in Ark Omega.
+
+5. You should begin by taming vanilla dinos for generic eggs required for basic kibbles, followed by basic tier dinos of each group to begin progression through the tiers.
+All dinos require mate boost to lay eggs when outside of an egg collector, with a more detailed explanation in the progression guide.
+
+6. After these steps are complete, the progression guide tab is crucial to understanding Ark Omegas more complex features.

@@ -1,0 +1,29 @@
+<span style="color:red;">Rampage</span>: Rampage! These creatures have the ability to go on a Rampage dealing greatly
+increased damage. The more they attack, the more their damage output. Stop attacking
+for too long, and that bonus will start to decay away until they are back to normal damage
+and no longer in a Rampage. Nearby players will know that a dino has gone into a
+Rampage by the red glow on its head and the classic RAMPAGE video game sound that
+plays at this time.
+
+Pressing Prone(X) will force the creature to go into Rampage mode. This will provide a
+Rampage meter, which increases with every attack, and decreases if time goes by without
+dealing damage. The % displayed is how much attack damage is increased.
+
+-----
+Cooldown: 60x
+Stamina Cost: 10%
+Rampage Duration: 30s
+Maximum Rampage: 300%
+Maximum Damage Bonus: 300%
+Rampage Increase Per Attack: 10%
+Time before Rampage Decay: 3s
+Percent Rampage decrease per second: 0.5s
+
+Variant Information:
+Spawn Chance: 02.55%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

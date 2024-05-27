@@ -1,0 +1,29 @@
+<span style="color:gray;">Controller</span>: Controllers are in charge of aggression levels of nearby enemies. They can
+determine whether an enemy attacks or flees from the fight. They can also force enemies
+to attack them specifically, drawing aggro away from allies.
+
+Pressing Prone(X) will fear enemies in a certain range, causing them to temporarily flee
+from the fight. Enemies cannot attack when fleeing.
+
+Pressing Crouch(C) will taunt enemies, forcing them to attack the Controller instead of
+other allies. They can even make most passive creatures attack them.
+
+-----
+Fear Cooldown: 20s
+Fear Stamina Cost: 10%
+Fear Radius: 3000 (10 foundations)
+Fear Duration: 8s
+Taunt Cooldown: IOS
+Taunt Stamina Cost: 10%
+Taunt Radius: 4000 (13.33 foundations)
+Damage Reduction While Taunting: 75%
+Taunt Duration: Depends on enemies aggro settings.
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

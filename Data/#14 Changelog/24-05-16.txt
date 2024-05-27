@@ -1,0 +1,20 @@
+Ark Omega Ascended 5/16 Patch Notes:
+
+-Support for SE creatures added: Fire Wyvern, Lightning Wyvern, Poison Wyvern.
+-Paragon quest drop rates are now 25% instead of 20%.
+-Double curse imbue text is now Teal instead of Blue. This will not likely apply to existing items.
+-Fixed a bug preventing the Same Species paragon kill quests from working properly. They should auto-recalculate when you have reached a multiple of 100 kills.
+-Fixed a bug causing the Alpha Knockout arrows to turn a crossbow into a compound bow when equipped.
+-Removed the Unique God and Ancient God tokens from the Soul Grinder.
+-Updated item descriptions on Essences to show how many imbue rolls they give and what they return in the dimensional grinder.
+-Added snips of info about each structure to the Omegadex in the Items section (Thanks Comfrey for writing these up).
+-The beacon boss info page in the Items section on the omegadex now shows how many souls are optimal for each tier when summoning tames.
+-Updated the color on the text entry boxes in the Admin panel to be actual readable.
+-Added padding to a lot of the drop-down boxes in the guide to be more visually appealing.
+-Omega gun spawn command added to the guide.
+-Spawn Wild command lines added to the guide.
+-Using the Spawn Tamed command no longer gives you the dialog box to name it.
+-Added a small bit to the Miracle tab on the guide to explain how miracles are performed.
+-Farming dinos will now also collect berries from crop plots and send them to the void vacuum.
+-Fixed a bug with unique set medallions giving you credit for the wrong set item pieces being equipped.
+-Fixed a bug causing all unique/legendary shields to become Primitive after initializing. This will fix existing ones as well.

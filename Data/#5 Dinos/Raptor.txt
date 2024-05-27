@@ -1,0 +1,15 @@
+Name: Raptor
+Base Damage: 15
+Rarity Group Number: 8
+Paragon Shard Value: 3
+
+Uniques:
+Unique Name: Dismay
+Variants: Meteor / Random
+Spawn Weight: 1.0
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

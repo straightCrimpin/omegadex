@@ -1,0 +1,24 @@
+<span style="color:black;">Ghost</span>: Hidden at night, terrifying at night. Ghost creatures are completely invisible during
+the day. You can walk right through them without knowing they are there, and they are
+unable to attack or be ridden during the day.
+
+At night, they are the most powerful of Nightmare creatures. No special abilities, but
+exponentially more powerful with both increased health and damage, and a Dodge chance
+which prevents them from being hit.
+
+-----
+Nightmare Vision at Night Time.
+All Incoming Damage Reduced By 66%.
+All Outgoing Melee Damage Is Increased By 200%.
+Takes 4x Damage and Deals 75% Less In The Day (Tamed).
+Daytime Damage Reduction: 100%
+Nighttime Dodge Chance: Tier x 5%
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 15.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: true

@@ -1,0 +1,14 @@
+Name: Manticore
+Base Damage: 540
+Rarity Group Number: 0.25
+Paragon Shard Value: 40
+Raid Torpor: Can only take torpor from raid torpor sources.
+
+Uniques:
+Unique Name: Sphinx
+Variants: Rampage / Treasure
+Spawn Weight: 1.0
+
+Unique Name: Thundercat
+Variants: Thunderstorm / Essence
+Spawn Weight: 1.0

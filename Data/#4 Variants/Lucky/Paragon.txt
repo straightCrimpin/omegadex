@@ -1,0 +1,23 @@
+<span style="color:yellow;">Paragon</span>: Paragon creatures are greatly prized for their souls. When a Paragon creature is
+killed, it drops a soul based on its species. Feeding this soul to a creature of the same
+species will reward it a Paragon level, giving a permanent 100% stat increase, up to a
+Paragon level of 10. These are displayed on your tames name in Roman Numerals, with 10
+being [X]. Because of this incredible power, Paragon creatures always spawn at Paragon [X],
+and are much harder to kill.
+
+Paragon creatures can only be tamed using Unique Kibble.
+
+-----
+Speed Bonus: 100%
+Damage Reduction: 90%
+Chance To Drop Paragon: 100%
+Does not provide Paragons when tamed.
+
+Variant Information:
+Spawn Chance: 00.21%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: true

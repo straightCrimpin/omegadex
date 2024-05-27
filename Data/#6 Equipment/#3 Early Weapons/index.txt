@@ -1,0 +1,8 @@
+Early game weapons are obtainable as soon as you start playing. They can be crafted
+in the Omega Workbench once you reach the level required for the engrams.
+
+The unique versions follow the same drops as early game sets, obtainable from any
+creature with a variant, with the item dropped coordinating with the group of dino that is
+killed.
+
+When unique weapons drop, they have a 10% chance to be Legendary.

@@ -1,0 +1,18 @@
+<span style="color:gray;">Armored</span>: The 7th Variant of Guardian. Armored creatures gain increased damage reduction
+as their health decreases, making them increasingly more difficult to deal with as the fight
+goes on. Your best strategy is to kill them in a single blow, or get them below 1% health
+which will deactivate their damage reduction. Melee and Ability damages are also
+decreased as the Armored creature's health decreases.
+
+-----
+Incoming Damage = Damage * Health Percent.
+Melee and Ability Damage = 3 * Health Percent.
+
+Variant Information:
+Spawn Chance: 00.09%
+
+Other Information:
+Cooldown 1: 30.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: true

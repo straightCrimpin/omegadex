@@ -1,0 +1,15 @@
+Name: Ichthyornis
+Base Damage: 16
+Rarity Group Number: 8
+Paragon Shard Value: 3
+
+Uniques:
+Unique Name: Vapor
+Variants: Water / Wind
+Spawn Weight: 1.0
+
+Food Types:
+Raw Fish Meat
+Cooked Fish Meat
+Cooked Prime Fish Meat
+Raw Prime Fish Meat

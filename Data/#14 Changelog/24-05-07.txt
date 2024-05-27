@@ -1,0 +1,127 @@
+Ark Omega Ascended 5/7 Patch Notes:
+
+Dinos:
+-Cloners can no longer clone other Cloner variants.
+-NPCs can no longer be minions.
+-Fixed a bug causing the mating interval to still be applying to boss resistances.
+-Fixed a bug preventing Salmon from being harvested.
+-Fixed a bug causing Comets to be invisible.
+-Fixed a missing material on Collective.
+-Fixed a bug that was causing tamed dinos to replicate all of their imbue values every couple of seconds due to medallion detection bugs.
+-29 new unique dinos added.
+-Fixed problems with minibosses not being damageable due to bonuses/requirements rerolling on server restarts, but not overwriting selected bonuses from before.
+-The damage resistance function on minibosses now caps at 99% from any resistance, and gains resistance of 3% (multiplicative) when taking damage instead of 5%. (~150 hits to reach 99% DR instead of 80 hits).
+-Minibosses will now switch between Dino-Only and Player-Only based on what they are attacked by first, allowing players to damage all minibosses. Rewards will recalculate if first attacked by a player.
+-Farming variants will now collect crops and send them to the void vacuum.
+-Fixed some math errors with Bees that was causing lower tiers bees to produce extreme amounts of honey.
+-Fixed a bug causing bosses to regen health when they aren't supposed to.
+-Fixed a bug preventing Corrupt Masters from gaining their 2nd variants.
+-NPCs are no longer aggressive until attacked, but become highly aggressive afterwards. 
+-Fixed a bug preventing paragon level miracles from actually adding the paragons to the quest system/chart.
+-Fixed a bug allowing Griffins to be summoned by piper NPCs, and sometimes crashing the game.
+-Fixed a bug preventing Vultures from being properly KO tamed.
+-Fixed a bug allowing dinos that don't normally tame with kibble to be tamed with any kibble (Titanoboa, Achatina, Procoptodon, etc).
+-Greatly reduced the emissive brightness on the Ghost material.
+-Tracker dinos now show all tiers Basic through Elite no matter what tier they are, and start showing the higher tiers as they have their own tier increased.
+-Fixed a bug causing some beacon bosses to spawn at paragon 10.
+-Titanosaurs readded.
+-Fixed a bug with some unlinked assets causing most DodoRexes to be invisible.
+-Minions will no longer go to the reliquary.
+-Tweaked Miniboss AI to prevent some species from fleeing.
+-Fixed a bug with Fireballs not correctly applying the burning debuff in an area when hitting nearby enemies.
+-Fixed many bugs with elemental ball projectiles from all sources not having correct hit registration or dealing direct damage to things they impact.
+-Fireballs now have the correct explosion effect on impact.
+-Changed out the impact particle on Earth balls.
+-Fixed a bug with the tick damage on Earth damage not applying correctly and ticking for only 10 damage from player sources.
+-Fire damage from fireballs is now able to apply the burning debuff again.
+-Lightning/water ball impact effect now scales (somewhat) with player damage.
+-Mesh for DodoRex relinked.
+-Rhyniognathus can now mate.
+-Masters now have the added variant of the corrupt master. The corrupt master still temporarily has the double variant as well until reworked.
+-Fixed a bug with bosses that have multiple variants not getting appropriate stat multipliers. 
+-Fixed a bug causing the speed scaling function for bosses to run 3 times, making them (especially flyers) far too fast when spawned.
+
+Other:
+-Miracle base duration is now 1 hour.
+-Removed the 88 post-tame level restriction on bosses.
+-Movement altering buffs (tornado, singularity, etc) destroy themselves on Stasis.
+
+Items:
+-The Harvesting Tool mode is now toggled with the attachment key, and the description updated to reflect this.
+-Added a new sound to item drops since the old one was deleted by Wildcard.
+-Fixed a bug with the set buff names sometimes displaying an incorrect amount of set item pieces.
+-Added events to the harvesting tool/multi-tool/warp bow to make the mode switching more compatible with controllers.
+-Charms now have their own imbue pool for min/max values.
+-Magic find min/max values quadrupled on charms.
+-Fixed a bug causing Soul Scream to make your character look as if it is swimming under water when playing on a server.
+-Implemented some input options to make Gathering Tool, Warp Bow, Multi-Tool work with controllers.
+-Fixed a bug causing the reward type (paragon or stat potions) to multiply the required kills for a quest and not the reward itself.
+-Fixed a bug that could prevent saddle imbues from working correctly.
+-Unique and Legendary set medallions will now go to the Unique Totem instead of the Set Mannequins.
+-Set item bonuses on set medallions now display while hovering.
+-Fixed a bug preventing the set name for mid game sets from showing on the armor (this will not apply to currently owned items).
+-Fixed a bug with mid game set items giving you the wrong set buffs. 
+-Fixed a bug with mid game set medallions giving you early game set bonuses. 
+-Set medallions now show you the bonuses provided below the items provided.
+-Stat potions now apply double bonuses to unique dinos.
+-Unique Stat Potions added, which provide 3 to all stats and all types for a specific species.
+-Legendary Stat Potions added, which provide 10 to all stats and all types for specific species.
+-Hexenized Stat Potions added, which provide 10 to all stats and all types for any species. 
+-Hexenized Affinity Medallions added, which always provide 95% DR/Dodge and 1000% Melee/Ability damage.
+-Unique Tokens now work properly when used in the Omega Beacon.
+-Quest scrolls can now spawn in loot chests.
+-Fixed the reveal-all functionality on Full Disclosure, and added the ability for it to show NPCs and Bosses (and Minibosses).
+-Fixed the tier names/descriptions on healing darts.
+-Changed the sound played when opening early game set/unique tokens to not be nearly as loud.
+-Fixed a bug with the unique/legendary Hades Torch burns not stacking.
+-Fixed a bug with the unique/legendary Malice not applying the Hemophilia buff.
+-Greatly reduced the emissive brightness on the Getaway Orb.
+-Unique dinos can now be tiered up to Prime/Apex/Ultimate with Boss/Master/Corrupt Master souls.
+-Fixed a bug with Boss Souls not being able to be fed to certain species.
+-Same-species kill paragon quests added as a way of obtaining and additional 10 paragon levels, while making it easier for more weaker and more common creatures to obtain them. 
+-The toggle on of the explosion effect for Boomstick is now tied to the attachment toggle input.
+
+Structures:
+-All structures now support locking.
+-The Resource Collector no longer has a filter bar at the top of the "view integrated" menu, and the buttons now give you the option to enable/disable generation of that type.
+-Fixed a problem with the math that would cause the Resource Collector to generate at least 1 resource even if the math didn't support current generation.
+-Fixed a crash with the Soul Compressor from trying to withdrawal boss souls.
+-Fixed multiple issues with Masters souls and Soul Compressors, including missing text, not compressing, and not available to withdrawal.
+-The Gene Splicer now has collision.
+-Fixed a bug with Hoarder chests giving charms without imbues.
+-Gauntlet Beacons now unlock from killing Corrupt Masters.
+-Fixed a bug with chests not spawning with an Elite essence requirement (or the increased reward potential of an Elite essence chest).
+-Reduced the essence cost multiplier for lower tier essence so it doesn't scale so quickly.
+-Temporarily disabled options on the Gene Splicer/Omega Altar.
+
+Guide/UI:
+-Fixed the dino wipe command in the admin panel not working.
+-Updated the filtered selection UI.
+-Updated the guide's background and size to look more modern using ASA visuals.
+-The guide is now called the Omegadex. The Omegadex section is now renamed to "Dinos".
+-Pressing escape while hovering over a button in any custom UI will no longer force it to be closed.
+-Fixed the order of the text on the Paragon UI for tames to show that Omega Max kills are at the bottom of the list.
+-Fixed a bug with the chest wipe command in the admin panel not working.
+-Removed the stat multiplier text from the group information in the guide.
+-A completed Unique dino list added to the guide.
+-Items tab added to the guide with a few completed tabs (more to come very soon).
+-Paragon chart wheel option for tamed dinos now uses the Paragon Soul icon.
+-Command added to the guide to give an early game set.
+-Command added to the guide to give an early game unique weapon.
+-NPCs tab added to the guide, with more information to come later. 
+-Fixed a bug in the guide causing the information for item sets to display on the wrong sets in the equipment tab.
+-Double Check added to ensure that only admins can use the admin menu even if visible.
+
+Early Game Weapon rebalances:
+-Kaleidoscope "No Melee" bonus replaced with "Melee Attacks Deal Damages From 3 Elements".
+-Fixed a bug causing Kaleidoscopes "300% damage when thrown" to be unreliable.
+-Kaleidoscope elemental balls are aimed downward slightly, reducing the travel distances and making them more likely to hit things in the path of the boomerang.
+-Fixed bugs with Refraction not correctly homing projectiles to a valid target, and made it so the nearest target is always selected first.
+-"300% More Damage When Thrown" and "200% Projectile Damage" bonuses on Refraction replaced with Deals "200% Damage From All Sources".
+-Refraction bonus added "Damage From Refraction Cannot Be Reflected".
+-Doubled damage from elemental projectiles for both Kaleidoscope and Refraction.
+-Added text to the Nitroglycerin that self-destructing the weapon will force it to unequip.
+-Fixed a bug causing the damage on the Unique/Legendary Boomstick to be doubled.
+-Blood Cloud on Bloodbath will now also proc at a 5% chance on any attack.
+-500% damage to bosses on Bloodthirst replaced with 300% increased damage, and 200% Damage To Bosses.
+-Bonus added to Blinding Truth to cut casting rate for the flare down to 10 seconds.

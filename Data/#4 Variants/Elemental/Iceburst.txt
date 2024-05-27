@@ -1,0 +1,18 @@
+<span style="color:yellow;">Iceburst</span>: Creates a freezing cold storm of ice that can freeze enemies trapped in it.
+
+-----
+Cooldown: 10s
+Stamina Cost: 30%
+AOE Radius: 1500 (5 foundations)
+Damage: 100% of Ability Damage as ice damage.
+Weak Against (2x damage taken): Fire
+Resists (0.5x damage taken): Ice, Wind
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 10.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: true

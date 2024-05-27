@@ -1,0 +1,24 @@
+Name: Gigantopithecus
+Base Damage: 40
+Rarity Group Number: 6
+Paragon Shard Value: 5
+
+Uniques:
+Unique Name: Bigfoot
+Variants: Tracker / Boogeyman
+Spawn Weight: 1.0
+
+Unique Name: Hollow Purple
+Variants: Starfire / Singularity
+Spawn Weight: 0.5
+
+Food Types:
+Amarberry
+Azulberry
+Tintoberry
+Mejoberry
+Base Veggie
+Sweet Vegetable Cake
+Cianberry
+Magenberry
+Verdberry

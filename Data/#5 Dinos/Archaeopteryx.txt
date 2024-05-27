@@ -1,0 +1,12 @@
+Name: Archaeopteryx
+Base Damage: 9
+Rarity Group Number: 9
+Paragon Shard Value: 2
+
+Uniques:
+Unique Name: Sniper
+Variants: Wind / Knockback
+Spawn Weight: 1.0
+
+Food Types:
+Chitin

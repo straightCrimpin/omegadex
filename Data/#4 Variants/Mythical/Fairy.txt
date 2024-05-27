@@ -1,0 +1,22 @@
+<span style="color:lightgreen;">Fairy</span>: Natural healers. A fairy will make an invaluable ally in battle, as it will heal all nearby
+allies for a % of their max health over time. An AOE healer that uses nothing more than its
+own Stamina to heal.
+
+Pressing Prone(X) will cause it to heal any nearby ally on your team for a % of their health
+per second. Pressing X again will toggle it off and trigger the cooldown. The Fairy cannot
+attack while healing.
+
+-----
+Cooldown: 60s
+Stamina Drain Per Second: 5%
+Healing Amount: (0.5% x Tier) of Max Health Per Second
+Healing Radius: 3000 (10 Foundations)
+
+Variant Information:
+Spawn Chance: 01.7%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

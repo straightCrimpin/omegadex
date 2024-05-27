@@ -1,0 +1,22 @@
+<span style="color:green;">Tsunami</span>: Tsunami creatures have the power to manipulate, even create, powerful waves of
+water that can damage, drown, and even push back enemies.
+
+Pressing Prone(X) creates a poweful wave that quickly spreads outwards from the Tsunami
+creature. The wave will damage anything caught in it, drain their oxygen, and can even push
+them away from the Tsunami creature.
+
+-----
+Cooldown: 30s
+Stamina Cost: 30%
+Tsunami Duration: 3.5s
+Radius: 3600 (12 Foundations)
+Damage: 600% of Ability Damage as Tsunami Damage
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 62.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: true

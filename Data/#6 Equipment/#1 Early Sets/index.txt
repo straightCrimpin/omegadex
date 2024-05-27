@@ -1,0 +1,7 @@
+Early game sets are obtainable as soon as you start playing.
+
+Early game sets drop from any enemy with a variant. The set drop coordinates with the
+group of the enemy killed, giving you a matching set piece from that set. Click each set
+to get a full description of the pieces, along with the group that the set is from.
+
+Their bonuses coordinate with early game weapons.

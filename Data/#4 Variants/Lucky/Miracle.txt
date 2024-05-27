@@ -1,0 +1,23 @@
+<span style="color:yellow;">Miracle</span>: These very elusive variants have the ability to change server settings when killed,
+changing many aspects of gameplay for a limited amount of time. They are rare, often hard
+to see, with a high chance to dodge, and increased speed.
+
+When a Miracle creature is killed, if a new miracle is created or an existing one boosted,
+there will be a server wide notification that a Miracle has been performed. The miracles can
+be found in their own tab on the Guide.
+
+Miracle creatures can only be tamed using Unique Kibble.
+
+-----
+Speed Bonus: 100%
+Dodge Chance: 90%
+Does not create Miracles when tamed.
+
+Variant Information:
+Spawn Chance: 00.21%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: true

@@ -1,0 +1,16 @@
+Name: Tusoteuthis
+Base Damage: 65
+Rarity Group Number: 2
+Paragon Shard Value: 9
+
+Uniques:
+Unique Name: Cthulhu
+Variants: Dimensional / Colossus
+Spawn Weight: 1.0
+
+Food Types:
+Black Pearl
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

@@ -1,0 +1,22 @@
+<span style="color:brown;">Tracker</span>: Trackers are one the rarest of all variants, and for good reason. A Tracker can find
+all Ark Omega creatures, displaying their location and using an indicator in their color of
+their Tier.
+
+Pressing Prone(X) will send out a tracking signal, highlighting all nearby Ark Omega dinos
+by Tier.
+
+-----
+Cooldown: 30s
+Stamina Cost: 70%
+Tracking Base Radius: 15000 (50 Foundations)
+Tracking Radius Per Tier: 3900 (13 Foundations)
+Notification is provided when a Unique is found.
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 30.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: true

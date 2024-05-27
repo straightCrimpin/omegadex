@@ -1,0 +1,18 @@
+<span style="color:yellow;">Windburst</span>: Creating a powerful torrent of wind that stun enemies caught in it.
+
+-----
+Cooldown: 10s
+Stamina Cost: 30%
+AOE Radius: 1500 (5 foundations)
+Damage: 100% of Ability Damage as wind damage.
+Weak Against (2x damage taken): Lightning
+Resists (0.5x damage taken): Wind, Earth
+
+Variant Information:
+Spawn Chance: 01.7%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

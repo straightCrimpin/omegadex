@@ -1,0 +1,21 @@
+<span style="color:purple;">Random</span>: Random are the most unpredictable creatures in Ark Omega. They have no
+control over what they summon, as it can be any creature from any group.
+
+Pressing Prone(X) will summon completely random minions, with random variants and
+duration. Even a Random Dodo can summon an Uncontrollable Titanosaur as a minion.
+Water dinos will only be summoned in the water.
+
+-----
+Cooldown: 30s
+Stamina Cost: 40%
+Number of Minions: 2-3
+Duration of the Minion: 10-60 seconds.
+
+Variant Information:
+Spawn Chance: 01.7%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: false

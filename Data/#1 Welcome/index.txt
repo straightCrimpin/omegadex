@@ -1,0 +1,39 @@
+Welcome to Ark Omega Ascended <b><u>unofficial</u> Web OMEGADEX</b>!
+<small><i>&emsp;updated 26/05/2024 for Ark Omega Ascended version 54.</i>
+
+If the Web OMEGADEX differs from the in-game one, then always trust the in-game OMEGADEX. This web version is unofficial, meaning don't post bugs to the official
+Ark Omega Ascended Discord server.
+You can directly Discord Message me (in case something is not working/needs updating) - <a href="https://discordapp.com/users/147783361107066881">adg.</a></small>
+
+--------
+
+Whether you're new to the concept of this mod or have played the Ark: Survival Evolved Ark Omega, this guide is a very important
+resource, so consult it often.
+
+If this is your very first time opening the guide, try clicking the "Getting Started" button above for a quick-start guide.
+Here is an index of what each of the buttons below is for.
+
+<b>Progression Guide</b>: This will guide you through the mod.
+
+<b>Variants</b>: This is where you can check what each variant does. This is organized by variant group.
+
+<b>Dinos</b>: List of dinosaurs in Ark Omega Ascended mod.
+
+<b>Equipment</b>: This is like the Omegadex for gear sets; it lists what each piece does innately. It does not list possible imbues, only the base statistics of each piece in a set
+and what the full set does.
+
+<b>Bosses</b>: This is a shortform guide to what each tier of boss dino does and is, and tells you which structure can be used to summon each.
+
+<b>Items</b>: List of items in Ark Omega Ascended mod.
+
+<b>Uniques</b>: List of Unique dinos in Ark Omega Ascended.
+
+<b>Mating</b>: This is a quick summary of mating settings and what they do, as well as a couple of important niche details about vanilla Ark breeding.
+
+<b>Paragons</b>: Information about Paragon Quests.
+
+<b>FAQs</b>: Frequently asked questions. READ THIS BEFORE ASKING QUESTIONS IN DISCORD!
+
+<b>Links</b>: Everything Ark Omega Ascended related. If you are able, please consider donating to HexenLord for the awesome work he has done with the mod!
+
+<b>Changelog</b>: Ark Omega Ascended mod changelog.

@@ -1,0 +1,28 @@
+<span style="color:lightgray;">Dimensional</span>: An ability you have to see to believe, Dimensional creatures completely
+ignore air and water. They have no concept of either. Dimensional land creatures can walk
+or fly right into the ocean, and Dimensional water creatures can swim right out into the sky
+allowing you to use your favorite water tame on land. The Jump(Space) can be used to
+toggle flight on even ground creatures. They use no oxygen, and with their Dimensional
+Vision activated, your rider will not use oxygen either.
+
+Pressing Prone(X) will remove all water from sight, making it completely invisible. You will
+be able to see the very depths of the ocean floor from the sky, allowing unlimited
+underwater exploration.
+
+NOTE: Dimensional water tames should not be left out during a restart. The game may see
+them as water tames before seeing them as dimensional, and delete them!
+
+-----
+Does not use Oxygen
+Can travel in/out of water at will.
+Can turn water to air, hiding the ocean completely from sight.
+Stamina drain per second in Dimensional Vision: 1%
+
+Variant Information:
+Spawn Chance: 02.55%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

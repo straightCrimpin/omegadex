@@ -1,0 +1,28 @@
+Name: Ovis
+Base Damage: 12
+Rarity Group Number: 9
+Paragon Shard Value: 2
+
+Uniques:
+Unique Name: Gamble
+Variants: Random / Spectral
+Spawn Weight: 1.0
+
+Unique Name: Hush
+Variants: Taming / Uncontrollable
+Spawn Weight: 1.0
+
+Unique Name: Intern
+Variants: Farmer / Uncontrollable
+Spawn Weight: 1.0
+
+Food Types:
+Amarberry
+Azulberry
+Tintoberry
+Mejoberry
+Base Veggie
+Sweet Vegetable Cake
+Cianberry
+Magenberry
+Verdberry

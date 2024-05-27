@@ -1,0 +1,32 @@
+<span style="color:green;">Thunderstorm</span>: The name Thunderstorm might be a bit misleading. There are definitely
+lightning strikes. When Thunderstorm is activated, a powerful lightning bolt will strike one
+nearby enemy every second, dealing high impact damage, and spreading a static
+discharge in the area that deals tick damage to everything caught in it. The ability doesn't
+need to be aimed, as the lightning strikes seek out their targets, hitting without fail. This
+can be an amazing ability to use while fleeing or kiting enemies, as the lightning damage
+also causes electrocution, temporarily pausing their movement.
+
+Pressing Prone(X) creates a powerful thunderstorm that strikes a random enemy within
+the radius each second, dealing strike damage but also creating an AOE static field that
+does tick damage. Lightning strikes ground flyers.
+
+-----
+Cooldown: 30s
+Stamina Cost: 30%
+Thunderstorm Duration: 10s
+Thunderstorm Radius: 3000 (10 Foundations)
+Lightning Strike Damage: 100% of Ability Damage
+Lightning Strikes Per Second: 1
+Static Field Radius: 600 (2 Foundations)
+Static Field Duration: 3s
+Static Field Tick Damage: 20% of Ability Damage every 1/2 second.
+Lightning Strikes Ground Flyers
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 30.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: false

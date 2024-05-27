@@ -1,0 +1,20 @@
+Name: Titanosaur
+Base Damage: 180
+Rarity Group Number: 2
+Paragon Shard Value: 9
+
+Uniques:
+Unique Name: Extinction
+Variants: Uncontrollable / Rampage
+Spawn Weight: 1.0
+
+Food Types:
+Amarberry
+Azulberry
+Tintoberry
+Mejoberry
+Base Veggie
+Sweet Vegetable Cake
+Cianberry
+Magenberry
+Verdberry

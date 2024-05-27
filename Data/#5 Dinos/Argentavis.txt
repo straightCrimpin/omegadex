@@ -1,0 +1,19 @@
+Name: Argentavis
+Base Damage: 25
+Rarity Group Number: 6
+Paragon Shard Value: 5
+
+Uniques:
+Unique Name: Firebird
+Variants: Fireburst / Phoenix
+Spawn Weight: 1.0
+
+Unique Name: Airstrike
+Variants: Meteor / Eruption
+Spawn Weight: 0.25
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

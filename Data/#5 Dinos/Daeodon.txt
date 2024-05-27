@@ -1,0 +1,15 @@
+Name: Daeodon
+Base Damage: 29
+Rarity Group Number: 6
+Paragon Shard Value: 5
+
+Uniques:
+Unique Name: Gargoyle
+Variants: Stone / Knockback
+Spawn Weight: 1.0
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

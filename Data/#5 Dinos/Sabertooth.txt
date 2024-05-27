@@ -1,0 +1,23 @@
+Name: Sabertooth
+Base Damage: 29
+Rarity Group Number: 8
+Paragon Shard Value: 3
+
+Uniques:
+Unique Name: Pride
+Variants: Control / Paragon
+Spawn Weight: 1.0
+
+Unique Name: Mama Puma
+Variants: Blizzard / Brutal
+Spawn Weight: 1.0
+
+Unique Name: Flower
+Variants: Pygmy / Crafting
+Spawn Weight: 2.0
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

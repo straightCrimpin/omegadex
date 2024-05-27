@@ -1,0 +1,20 @@
+Name: Leech
+Base Damage: 7
+Rarity Group Number: 10
+Paragon Shard Value: 1
+
+Uniques:
+Unique Name: Crimson
+Variants: Tsunami / Vampire
+Spawn Weight: 1.0
+
+Food Types:
+Amarberry
+Azulberry
+Tintoberry
+Mejoberry
+Base Veggie
+Sweet Vegetable Cake
+Cianberry
+Magenberry
+Verdberry

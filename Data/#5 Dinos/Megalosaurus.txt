@@ -1,0 +1,15 @@
+Name: Megalosaurus
+Base Damage: 75
+Rarity Group Number: 6
+Paragon Shard Value: 5
+
+Uniques:
+Unique Name: Sloth
+Variants: Reflect / Stone
+Spawn Weight: 1.0
+
+Food Types:
+Raw Meat
+Cooked Meat
+Cooked Prime Meat
+Raw Prime Meat

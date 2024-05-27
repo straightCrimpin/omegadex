@@ -1,0 +1,25 @@
+<span style="color:lightgray;">Astral</span>: While Astral Projectile doesn't have much combat use, it has a ton of support usage.
+Astral creatures have the ability to leave their body, moving around in the Astral plane.
+Passing through enemeis will debuff them in several ways, giving either you, or allies, an
+edge in combat.
+
+Pressing Prone(X) will allow you to enter Astral form. You cannot attack, take, or deal
+damage. Wild dinos will ignore you unless already aggroed to you. Passing through enemies
+will apply multiple debuffs.
+
+-----
+Stamina Drain Per Second In Astral Form: 3%
+Debuffs applied: Stun/Slow/Curse
+Stun: 2 Second Duration
+Slow: 50% Movement For 5 Seconds
+Curse: 50% Damage Dealt, 150% Damage Taken
+Curse Duration: 10 Seconds
+
+Variant Information:
+Spawn Chance: 02.55%
+
+Other Information:
+Cooldown 1:0.0
+Cooldown 2:0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: false

@@ -1,0 +1,22 @@
+<span style="color:yellow;">Wind</span>: Launches a wind projectile that can stun enemies on impact. The projectile is very
+fast and not effected by gravity.
+
+-----
+Cooldown: 3s
+Stamina Cost: 5%
+Weak Against (2x damage taken): Ice
+Resists (0.5x damage taken): Wind, Earth
+Projectile has no gravity drop.
+Projecitle Speed: 4500
+Projectile AOE Explosion Radius: 900 (3 foundations)
+Projectile Damage: lx Ability Damage
+Projectile Effect: Stuns targets in the impact area for 1 second.
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 10.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: true

@@ -1,0 +1,23 @@
+<span style="color:black;">Zombie</span>: Classic horror creatures in the flesh. Zombies are infected creatures that will turn
+their enemies into zombie minions on a killing blow. Those minions are also capable of
+turning enemies into zombie minions on killing blow, allowing you to quickly gather up a
+horde of infected. This makes the Zombie extremely effective in crowded areas and caves.
+Zombies gain bonus movement speed and damage reduction at night.
+
+-----
+Nightmare Vision at Night Time.
+Revives enemies as Zombie minions on kill.
+Zombie minions retain half of the paragon levels.
+Regains 5% of maximum health on kill.
+Nighttime Damage Reduction: 50%
+Nighttime Speed Bonus: 50%
+Zombie Minion Duration: 25s
+
+Variant Information:
+Spawn Chance: 01.7%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: false

@@ -1,0 +1,20 @@
+<span style="color:red;">Knockback</span>: Keeping enemies at range, that's the point of the Knockback creatures. They
+have a chance with every attack to deal a blow that sends the enemy flying a short
+distance, leaving it temporarily stunned before it is able to re-enter battle. With enough
+consecutive attacks, a Knockback creature can keep an enemy outside of attack range,
+pummelling it without ever letting it get close enough to fight back.
+
+-----
+Knockback Hits Deal Triple Damage.
+Chance to Knockback/Stun: 25%
+Stun Length: 3s
+Impulse Amount: 400000
+
+Variant Information:
+Spawn Chance: 01.7%
+
+Other Information:
+Cooldown 1: 30.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: true

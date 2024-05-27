@@ -1,0 +1,24 @@
+<span style="color:black;">Stalker</span>: Not something you want to think about following you, the Stalker will often cloak
+itself while in pursuit. While cloaked, it will not be targeted by enemies, and will uncloak on
+attack, landing a powerful critical hit.
+
+Pressing Prone(X) toggle the Stalker's cloak, allowing it to go on a hunt. Being cloaked will
+drain stamina, uncloaking when it is gone. If the Stalker finds a target and attacks while
+cloaked, it will deal massive bonus critical hit damage, also triggering the cooldown before
+it can cloak again.
+
+-----
+Nightmare Vision at Night Time.
+Cooldown: 30s
+Stamina Cost for Critical Hit: 25%
+Stamina Drain Per Second while cloaked: 2%
+Critical Hit Damage Bonus: 500 - 1500%
+
+Variant Information:
+Spawn Chance: 00.85%
+
+Other Information:
+Cooldown 1: 30.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: true

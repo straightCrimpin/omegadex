@@ -1,0 +1,23 @@
+<span style="color:yellow;">Essence</span>: Often called "gummy" because of their appearance, these creatures are made of
+100% pure Essence. Being made of such a fluid substance also means they take
+considerably less damage. When killed, they reward a huge cache of Essence based on their
+Tier. The number of essences dropped it based on the number of kibble it would normally
+require to tame that creature, so taming speed will have an effect on the number of
+essences dropped.
+
+Essence creatures can only be tamed using Unique Kibble.
+
+-----
+Speed Bonus: 100%
+Dodge Chance: 90%
+Number of essences dropped: Paragon Shard Value x Tier X 50.
+Does not provide Essence when tamed.
+
+Variant Information:
+Spawn Chance: 00.09%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: false
+Uses Activated Ability When Taking Damage: true

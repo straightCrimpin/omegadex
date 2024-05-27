@@ -1,0 +1,38 @@
+<span style="color:lightgray;">Element</span>: The 7th Variant of Resource. This variant's purpose is to stop enemies from
+using abilities, which can turn the tide of almost any battle. This will not prevent passive
+abilities like Knockback or Resource shards, but rather activated abilities, allowing it to
+survive retaliation. One major bonus of this variant is that it removes damage reduction
+from Lucky variant creatures. Upon deactivation, a cooldown buff is applied to enemies
+which prevents them from getting Element Sickness for 50 seconds. This pairs very well
+with Disruption from the Disruptor variant.
+
+Element Shards apply the Element Sickness debuff, preventing enemies from using their
+abilities and removing Lucky variant's damage reduction. Upon deactivation, a cooldown
+buff is applied that prevents
+
+-----
+Element Sickness Duration: 5s
+Element Sickness Cooldown Buff Duration: 10s
+Element Sickness Removes Lucky Variant Damage Reduction.
+
+Weakness: Explosive Damage
+Harvested For: Element, Element Shards, Element Dust
+Drag weight increased: 3x
+Amount of resource passively produced in inventory every 5 minutes: Tier x 10
+Damage Reduction: 90% (10% damage taken)
+Damage Taken by Elemental Weakness: 100%
+Damage Taken by Multi-Tool: 200%
+Shard Damage: 50% of Ability damage.
+Shard Explosion Radius: 900 (3 foundations)
+Splintered Debuff increases damage from shards by 5%, and can stack 100x.
+Shard Chance %: (Damage Taken/Max Health) * 2000
+Shard Chance increases by 10% for each hit that does not produce a shard.
+
+Variant Information:
+Spawn Chance: 00.09%
+
+Other Information:
+Cooldown 1: 0.0
+Cooldown 2: 0.0
+Uses Activated Ability When Dealing Damage: true
+Uses Activated Ability When Taking Damage: false
