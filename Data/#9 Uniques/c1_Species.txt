@@ -138,10 +138,10 @@ Rhyniognatha
 Rhyniognatha
 Snow Purlovia
 Polar Bear
-erboa
+Jerboa
 Mantis
-horny Dragon
-ulture
+Thorny Dragon
+Vulture
 Morellatops
 Megapithecus
 Manticore
@@ -151,7 +151,7 @@ DodoRex
 Dragon
 Dodo Wyvern
 Oil Jug Bug
-ater Jug Bug
+Water Jug Bug
 Fire Wyvern
 Lightning Wyvern
 Poison Wyvern
