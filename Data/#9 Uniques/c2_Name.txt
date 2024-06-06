@@ -1,5 +1,6 @@
 Eternal
 Wrath
+Adamantogar
 Deep
 Undying
 Workaholic
@@ -16,10 +17,13 @@ Hollow Purple
 Menace
 Impulse
 Fallout
+Major Payne
+Jawbreaker
 Ironhide
 Sodium
 Static
 Firecracker
+Compfrey
 Gargoyle
 Opal
 Heatwave
@@ -31,17 +35,20 @@ Frostbite
 Chernobyl
 Kenny
 Amy The Amers
+The D20
 Feedback
 Rubber
 Ninja
 Rox
 Scarab
+Silent
 Dread
 Superconductor
 Misery
 Innocence
 Host
 Solar
+Cazador
 Spooky
 War
 Gigagon
@@ -62,6 +69,7 @@ Treant
 Sharknado
 Sloth
 Lich King
+Otis
 Flash
 Octavia
 Shepherd
@@ -117,6 +125,7 @@ Moira Rose
 Greed
 Psycho
 Jester
+Koda
 Envy
 Seiya
 Mittens
@@ -138,9 +147,11 @@ Vermivorous
 Aedes Aegypti
 Rime
 Unbearable
+Ghost
 Jerkboa
 Edward
 Unibomber
+Nettle
 Bloodhound
 Vulcan
 Kong
@@ -153,6 +164,8 @@ Nidhogg
 Sulfur
 Mermaid
 Smelt
+Bowzer
 Storm
+Spyro
 Riot
 Vash

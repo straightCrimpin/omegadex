@@ -1,0 +1,56 @@
+Ark Omega Ascended 6/6 Patch Notes:
+
+-Fixed a bug causing resource variants to have 25% DR instead of 75% DR. This will also fix the crazy damage multiplier that resource-DR-bypassing damage types are getting against them.
+-Remapped the Tracker and Net Gun tracking functions to only display on-screen icons and not the ones from behind you, solving the screen cluttering issue.
+-(13) New unique dinos added for: Compy, Titanomyrma Soldier, Dung Beetle, Megatherium, Polar Bear, Thorny Dragon, Lightning Wyvern, Carno (x2), Therizino, Dodo, Allosaurus, Fire Wyvern
+-Fixed a bug with the Omega Spyglass UI not being removed when deactivating the spyglass.
+-Corrupt Master summon option removed from the beacon.
+-Masters will no longer attempt to roll the same variant twice.
+-Fixed a behavior tree issue with Boss AI that was causing them to not attack.
+-Fixed many bugs with Afterlife minions not getting their correct data, being permanent minions, etc.
+-Fixed a bug with the math running twice for inherited breeding paragons that could cause tames to get paragons but not the quest, or the quest but not the paragons.
+-Fixed a bug with the dynamic system that could cause stat calculations to run twice (and bug out) when the paragon level was manually set to zero, or the same value.
+-Swapped the net gun tracking capabilities to another function in an attempt to prevent crashing.
+-Reduced the max number of circles/levels/icons sent from the net gun to the player from 250 to 200 to prevent crashing.
+-Implemented double checks into the tier assignment on things summoned from the beacon to ensure they get their correct tier.
+-Fixed a bug causing engrams to not unlock for players unless riding a dino.
+-Fixed a bug with the kill counts for players not updating.
+-Omega Max dinos will now drop stat potions, quests, and variant/species paragons even if killed on foot.
+-Omega Max dinos now also drop a species paragon soul.
+-Created a new egg parent hierarchy to allow ark omega eggs to be used to craft vanilla kibble. Basic tier for basic kibble, delta for simple kibble, etc.
+-Fixed a bug preventing controllers from being able to scroll down the paragon quest menu.
+-Fixed a bug preventing Fairy bosses from attacking.
+-Purlovia and Snow Purlovia bosses will no longer bury.
+-Minions that inherit the summoner's stats now get pre-tame, mutation, and post-tame level up points inherited to ensure they get the stat potion benefits as well.
+-Fixed the skin on Element not working as intended.
+-Medallions no longer go to the cosmetics tab.
+-Fixed a bug often preventing bosses from getting their particles correctly added.
+-Fixed a bug with the unique/legendary warp bows having a 25% chance of missing attacks.
+-Quests are no longer temporarily hidden when hitting the escape button while hovering over them in the quest menu.
+-Honey no longer spoils in Queen Bee inventory.
+-Fixed a bug causing incorrect spawn chances to show up for some variants in the Omegadex.
+-Fixed a bug preventing Chibis from being equipped.
+-Fixed a bug preventing the guide from pulling the correct settings from the save to populate the settings menu on the admin panel of the omegadex.
+-Removed the "Current" column in the admin settings panel since it seemed to confuse people who wanted to click it to change the values.
+-Rescaled the text and box sizes on the number entry sections in the admin settings panel.
+-Added a Resource Collector speed multiplier setting to the admin panel.
+-Added an Egg Collector speed multiplier setting to the admin panel for the newly integrated egg collector. The vanilla egg laying rate setting is not used.
+-Egg Collector tab unhidden from the guide.
+-Fixed a bug preventing the Omega Gun from working properly.
+-Updated description on boomstick to show that it uses the toggle attachment button instead of left control to ignite it.
+-Spyglass tag functions updated to greatly reduce the amount of processing and lag involved in setting the values.
+-Fixed a bug with spyglass tags not showing Raid Torpor information.
+-Bee Honey is now produced at a 30-minute interval instead of 45-minute intervals.
+-Added which group each set belongs to on the equipment tab.
+-Fixed the "Additional Info" part of the set item's pages on the equipment tab that was often displaying the wrong set. 
+-Fixed a couple of minor typos in the guide.
+-Added conditions so that Singularity/Tornado will not try to pull players or dinos that are mounted on something else, potentially causing them to be instantly killed.
+-Fixed the name of the egg ammo selections on the Eggsecutioner.
+-Egg Collector integrated into the main mod.
+-Fixed the number being incorrect on the total torpor potential for knockout arrows.
+-Fixed a bug with the health points not showing correctly on the Omega Spyglass.
+-Fixed a bug with the Treasure Hunter buff trying to unhide all chests on the map causing various rendering issues.
+-The Over Easy set now handles the chest marking by using a modified Treasure Hunter buff for reliability, which also fixes the issues with the full set not making ridden dinos give 100% of your magic find.
+-Group Master souls added to the spawn commands in the Admin panel of the guide.
+-Group Master souls can be used to tier up any tame within that group to Ultimate.
+-A soul distribution setting has been added to the admin panel to allow you to control how souls/essence are handed out for kills.

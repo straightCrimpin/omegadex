@@ -8,6 +8,10 @@ Unique Name: Scarab
 Variants: Earth / Obsidian
 Spawn Weight: 1.0
 
+Unique Name: Silent
+Variants: Stalker / Gorgon
+Spawn Weight: 0.5
+
 Food Types:
 Spoiled Meat
 Raw Meat

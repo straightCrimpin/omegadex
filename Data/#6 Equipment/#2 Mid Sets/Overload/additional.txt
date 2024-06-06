@@ -1,0 +1,3 @@
+Additional Infou: Overloard while crouching makes you go into Meltdown mode, taking
+fire damage over time while increasing your Outburst damage the longer you remain
+crouched.

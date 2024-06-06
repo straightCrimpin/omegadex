@@ -1,5 +1,5 @@
 Welcome to Ark Omega Ascended <b><u>unofficial</u> Web OMEGADEX</b>!
-<small><i>&emsp;updated 26/05/2024 for Ark Omega Ascended version 54.</i>
+<small><i>&emsp;updated 06/06/2024 for Ark Omega Ascended version 57.</i>
 
 If the Web OMEGADEX differs from the in-game one, then always trust the in-game OMEGADEX. This web version is unofficial, meaning don't post bugs to the official
 Ark Omega Ascended Discord server.

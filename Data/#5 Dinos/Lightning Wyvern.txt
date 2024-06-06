@@ -8,6 +8,10 @@ Unique Name: Storm
 Variants: Thunderstorm / Blizzard
 Spawn Weight: 1.0
 
+Unique Name: Spyro
+Variants: Tracker / Spiritual
+Spawn Weight: 1.0
+
 Food Types:
 Raw Meat
 Cooked Meat

@@ -8,6 +8,10 @@ Unique Name: Unibomber
 Variants: Rampage / Detonate
 Spawn Weight: 1.0
 
+Unique Name: Nettle
+Variants: Overlord / Plague
+Spawn Weight: 0.5
+
 Food Types:
 Raw Meat
 Cooked Meat

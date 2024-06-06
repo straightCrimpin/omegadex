@@ -8,6 +8,10 @@ Unique Name: Firecracker
 Variants: Overlord / Self-Destructive
 Spawn Weight: 1.0
 
+Unique Name: Compfrey
+Variants: Frenzy / Potion
+Spawn Weight: 0.25
+
 Food Types:
 Raw Meat
 Cooked Meat

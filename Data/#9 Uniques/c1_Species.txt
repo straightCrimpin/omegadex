@@ -1,5 +1,6 @@
 Achatina
 Allosaurus
+Allosaurus
 Anglerfish
 Ankylosaurus
 Titanomyrma Drone
@@ -16,9 +17,12 @@ Gigantopithecus
 Titanoboa
 Carnotaurus
 Carnotaurus
+Carnotaurus
+Carnotaurus
 Chalicotherium
 Cnidaria
 Coelacanth
+Compy
 Compy
 Daeodon
 Dilophosaur
@@ -31,16 +35,19 @@ Direwolf
 Direwolf
 Dodo
 Dodo
+Dodo
 Doedicurus
 Ichthyosaurus
 Meganeura
 Meganeura
+Dung Beetle
 Dung Beetle
 Dunkleosteus
 Electrophorus
 Equus
 Unicorn
 Eurypterid
+Titanomyrma Soldier
 Titanomyrma Soldier
 Gallimimus
 Giganotosaurus
@@ -61,6 +68,7 @@ Manta
 Megalania
 Megalodon
 Megalosaurus
+Megatherium
 Megatherium
 Microraptor
 Microraptor
@@ -117,6 +125,7 @@ Terror Bird
 Therizinosaur
 Therizinosaur
 Therizinosaur
+Therizinosaur
 Thylacoleo
 Thylacoleo
 Thylacoleo
@@ -138,8 +147,10 @@ Rhyniognatha
 Rhyniognatha
 Snow Purlovia
 Polar Bear
+Polar Bear
 Jerboa
 Mantis
+Thorny Dragon
 Thorny Dragon
 Vulture
 Morellatops
@@ -153,6 +164,8 @@ Dodo Wyvern
 Oil Jug Bug
 Water Jug Bug
 Fire Wyvern
+Fire Wyvern
+Lightning Wyvern
 Lightning Wyvern
 Poison Wyvern
 Rock Elemental

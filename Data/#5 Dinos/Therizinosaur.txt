@@ -16,6 +16,10 @@ Unique Name: Jester
 Variants: Comet / Resilient
 Spawn Weight: 1.0
 
+Unique Name: Koda
+Variants: Brutal / Soul
+Spawn Weight: 0.5
+
 Food Types:
 Amarberry
 Azulberry
