@@ -15,6 +15,7 @@ body {
     margin: 0;
     height: 100vh;
     overflow: hidden;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 header {
@@ -71,7 +72,7 @@ header {
 }
 
 .active {
-    background-color: #0A4E6A;
+    background-color: #136e96;
     color: #ffffff;
 }
 
@@ -84,13 +85,109 @@ header {
 }
 
 .content {
-    flex-grow: 1;
+    background-color: rgba(40, 55, 71, 0.95); /* #283747 with 95% opacity */
+    background-image: linear-gradient(rgba(40, 55, 71, 0.5), rgba(0, 195, 255, 0.5)),
+                  url("Hexagons.png");
+    background-size: cover;
+    background-blend-mode: multiply;
+    border-right: 2px solid var(--main-border-color);
+    border-bottom: 2px solid var(--main-border-color);
     padding: 10px;
+    /*color: #a3f4ff;*/
     overflow-y: auto;
-    background-color: #283747;
-    border-left: 2px solid #00bcd4;
-    border-bottom: 2px solid #00bcd4;
+    flex-shrink: 0;
+    width: 35%;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     max-height: 95%; /* For scrolling for long content */
+}
+
+h1, h2, h3, h4 {
+    margin: 0;
+    padding: 0 0 0 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+hr {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.key {
+    font-size: 1.25em;
+    color: #ff6347;
+    font-weight: bold;
+}
+.value {
+    font-size: 1em;
+    color: #51f3e3;
+}
+
+.list-key {
+    font-size: 1.25em;
+    color: #49bcff;
+    font-weight: bold;
+}
+.list-value {
+    font-size: 1em;
+    color: #51f3e3;
+}
+
+.dino-key {
+    font-size: 1.15em;
+    color: #49bcff;
+    font-weight: bold;
+}
+.dino-value {
+    font-size: 1em;
+    color: #51f3e3;
+}
+.dealing-damage {
+    color: #0cc00c; /* This will colorize "Dealing Damage" in Green color */
+}
+.taking-damage {
+    color: #ff0000; /* This will colorize "Taking Damage" in Red color */
+}
+.cosmic {
+    color: rgb(27, 27, 255);
+}
+.elemental {
+    color: yellow;
+}
+.ethereal {
+    color: whitesmoke;
+}
+.guardian {
+    color: rgb(199, 199, 199);
+}
+.lucky {
+    color: gold;
+}
+.mythical {
+    color: lightgreen;
+}
+.nature {
+    color: rgb(3, 182, 3);
+}
+.nightmare {
+    color: rgb(20, 20, 20);
+}
+.rage {
+    color: rgb(255, 36, 36);
+}
+.resource {
+    color: rgb(168, 190, 212);
+}
+.summoner {
+    color: rgb(189, 3, 189);
+}
+.unstable {
+    color: orange;
+}
+.utility {
+    color: rgb(187, 91, 23);
 }
 
 /* Styles for images */

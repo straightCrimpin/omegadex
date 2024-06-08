@@ -5,13 +5,23 @@
 function readDirectory($dir) {
     $result = [];
     $files = scandir($dir);
-    natsort($files);
+
+    // Check if the current directory is "#14 Changelog"
+    if (basename($dir) == "#14 Changelog") {
+        usort($files, function($a, $b) {
+            $dateA = DateTime::createFromFormat('y-m-d', pathinfo($a, PATHINFO_FILENAME));
+            $dateB = DateTime::createFromFormat('y-m-d', pathinfo($b, PATHINFO_FILENAME));
+            return $dateB <=> $dateA;  // Reverse the order here
+        });
+    } else {
+        natsort($files);
+    }
 
     foreach ($files as $file) {
         if ($file == '.' || $file == '..' || $file == 'additional.txt') continue;
         $filePath = $dir . DIRECTORY_SEPARATOR . $file;
         // Skip index.txt, images, table.txt, and c#_*.txt files
-        if ($file == 'index.txt' || preg_match('/\.(png|jpg|jpeg|gif)$/i', $file) || $file == 'table.txt' || preg_match('/^c\d+_.*\.txt$/', $file)) continue;
+        if (pathinfo($file, PATHINFO_EXTENSION) == 'txt' || $file == "index" || preg_match('/\.(png|jpg|jpeg|gif)$/i', $file) || preg_match('/^c\d+_.*\.txt$/', $file)) continue;
         if (is_dir($filePath)) {
             $result[$file] = readDirectory($filePath);
         } else {
@@ -21,6 +31,7 @@ function readDirectory($dir) {
 
     return $result;
 }
+
 
 if (isset($_GET['folder'])) {
     $dataPath = realpath(__DIR__ . '/Data/' . urldecode($_GET['folder']));

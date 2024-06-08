@@ -5,13 +5,16 @@
 function getContent($file) {
     $file = realpath(urldecode($file));
     if (strpos($file, realpath(__DIR__ . '/Data')) === 0 && file_exists($file)) {
+        if (pathinfo($file, PATHINFO_EXTENSION) == 'txt') {
+            return '';
+        }
         return nl2br(file_get_contents($file));
     }
     return '';
 }
 
 function getDefaultContent($folder) {
-    $defaultFile = realpath(__DIR__ . '/Data/' . urldecode($folder) . '/index.txt');
+    $defaultFile = realpath(__DIR__ . '/Data/' . urldecode($folder) . '/index');
     if (file_exists($defaultFile)) {
         return nl2br(file_get_contents($defaultFile));
     }
