@@ -133,6 +133,8 @@ class DinosRuleSet(RuleSet):
             if key_value_pattern.match(line):
                     key, value = key_value_pattern.match(line).groups()
                     section_content.append(f'<span class="dino-key">{key}:</span> <span class="dino-value">{value}</span>')
+            elif isIndexFile:
+                    section_content.append(f'{line}')
             else:
                 if re.match(r'.*:$', line):
                     section_content.append(f'<h3>{line}</h3>')
