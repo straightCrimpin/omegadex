@@ -1,9 +1,9 @@
-Getting Started (Things You Must Know)
+<h3>Getting Started (Things You Must Know)</h3>
 
 So you've just started playing, and don't know where to begin. First off, there will be many new and dangerous creatures wandering around and you may not know how to
 get started taming them.
 
-1 . The first goal should be to craft an Omega Workbench. This contains most of the items specific to Ark Omega. This includes custom equipment, potions, tranqs, and
+1. The first goal should be to craft an Omega Workbench. This contains most of the items specific to Ark Omega. This includes custom equipment, potions, tranqs, and
 structures.
 
 2. Begin gathering souls and essence. These are rewarded to all players in the area when a wild dino is killed. You will get 1 soul corresponding to the group of the killed

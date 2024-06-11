@@ -6,9 +6,9 @@ have a chance of dropping. They may also unlock various vanilla Tek Engrams.
 
 Be warned, the titans are extremely aggressive, and have a cap on how much damage they can take. They
 require a minimum number of hits to be killed.
-Basic: 100 hits
-Beta: 200 hits
-Alpha: 300 hits
-Prime: 400 hits
-Ultimate: 500 hits
-Omega: 600 hits
+-Basic: 100 hits
+-Beta: 200 hits
+-Alpha: 300 hits
+-Prime: 400 hits
+-Ultimate: 500 hits
+-Omega: 600 hits
