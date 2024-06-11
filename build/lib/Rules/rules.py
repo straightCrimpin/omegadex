@@ -224,7 +224,7 @@ class listRuleSet(RuleSet):
                 if bulletListStart:
                     section_content.append('</ul>')
                     bulletListStart = False
-                section_content.append(f'{line}\n<br>')
+                section_content.append(f'{line}\n')
 
         if listStart:  # Close the ordered list if it's still open
             section_content.append('</ol>')

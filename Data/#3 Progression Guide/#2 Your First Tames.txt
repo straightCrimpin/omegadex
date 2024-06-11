@@ -1,7 +1,7 @@
 Welcome, once again, to Ark Omega Ascended! Before we begin, stop. The game can be played as is, but for the ideal gameplay experience, there
 are several (non-premium) mods that are run on official, and recommended for use with all installs.
 
-<br><h4>Recommended mods include:</h4>
+<h4>Recommended mods include:</h4>
 
 - a modded spyglass (Awesome, Super, Nanoh's, etc) for a quicklook indication of what kibble is needed to tame a dino, and how much of it.
 The Omega teleporter and dino storage mods, as well as the egg collector — these are mods that were copied into discrete mods of their own from
@@ -52,7 +52,7 @@ can look into crafting your first kibble. Be warned: getting your first dino in 
 do more damage than your early tames, and (while you have the newbie buff) you're also going to take less damage than they do. Ideally you'll just
 tame one single-kibble female creature of each variant and tier up until elite, and keep them for egg production, rather than combat.
 
-<br><h4>So, to summarize getting started.</h4>
+<h4>So, to summarize getting started.</h4>
 
 - Gather until you can craft your Omega Workbench (and optionally your Imbue Workbench)
 - Find a safe place to set up a starter base, ideally away from dino spawns
