@@ -1,1 +1,4 @@
-.github/
+*
+!/**/
+!*.*
+build/lib/Rules/__pycache__/
