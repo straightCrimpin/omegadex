@@ -355,12 +355,12 @@ Zodiac has 6 phases, where it takes the powers of each of the Unique Group Gods,
 groups that Zodiac is currently using (Infinite Zodiac can only be damaged by an Ethereal or Utility creature), and must be killed to move to the next phase. This means you will need at least 6 tames to
 take down Zodiac.
 
-Phase 1: Infinite Zodiac - Ethereal/Utility.
-Phase 2: Indestructible Zodiac - Resource/Guardian.
-Phase 3: Animate Zodiac - Mythical/Summoner.
-Phase 4: Apocalyptic Zodiac - Cosmic/Nature.
-Phase 5: Alchemist Zodiac - Unstable/EIemental.
-Phase 6: Sinful Zodiac - Rage/Nightmare.
+-Phase 1: Infinite Zodiac - Ethereal/Utility.
+-Phase 2: Indestructible Zodiac - Resource/Guardian.
+-Phase 3: Animate Zodiac - Mythical/Summoner.
+-Phase 4: Apocalyptic Zodiac - Cosmic/Nature.
+-Phase 5: Alchemist Zodiac - Unstable/EIemental.
+-Phase 6: Sinful Zodiac - Rage/Nightmare.
 
 The reward for killing Zodiac is currently a Zodiac Soul, which grants Unique Group God Variants to your tames, such as Sinful granting the Rage and Nightmare groups to your tames, but only the
 highest multiplier of either group, being 24x for Sinful.
@@ -393,9 +393,9 @@ and use the token to summon the Ancient Unique God.
 Q: How do you tame reactive water dinos?
 
 A:
-1. Use an Immortality potion to make you immune to the damage for 15 seconds.
-2. Use an absorbent dino to protect you and soak up the damage.
-3. Get armor imbued with high reactive resistance, or wear the Abruption set.
+-Use an Immortality potion to make you immune to the damage for 15 seconds.
+-Use an absorbent dino to protect you and soak up the damage.
+-Get armor imbued with high reactive resistance, or wear the Abruption set.
 
 
 Q: For Dynamic item drops, what causes them to drop, and what exactly is considered "on foot" for the increased drop chance?
@@ -459,10 +459,10 @@ A: Mid game sets currently drop from wild Omegas (or Godlike/Ancient in no-tame)
 Zodiac.
 
 The chances are:
-Omegas: I-in-1000
-Beacon Bosses: I-in-500
-Titans: I-in-250
-Gods: I-in-IOO
+-Omegas: I-in-1000
+-Beacon Bosses: I-in-500
+-Titans: I-in-250
+-Gods: I-in-IOO
 
 Killing these on foot has 1Ox greater drop chances.
 

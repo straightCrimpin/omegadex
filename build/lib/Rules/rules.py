@@ -27,10 +27,23 @@ class VariantsRuleSet(RuleSet):
     }
     
     def extract_content_sections(self, content, file_name):
+
+        def preprocess_newlines(text):
+            text = re.sub(r'\n(?!\n|\d|-)', ' ', text)
+            return text
+
         if os.path.basename(file_name) == "index.txt":
             isIndexFile = True
         else:
             isIndexFile = False
+
+        if isIndexFile and "Groups and Variants" in content:
+            mainIndexFile = True
+            # Preprocess the content first
+            content = preprocess_newlines(content.strip())
+        else:
+            mainIndexFile = False 
+
         # Discard the beginning of the text file
         content = re.sub(r'^<span style=.*?</span>:', '', content)
 
@@ -39,8 +52,9 @@ class VariantsRuleSet(RuleSet):
         rest_content = rest[0] if rest else ""
 
         # In the header, replace single newlines with spaces (to merge lines) and double newlines with a unique separator
-        header_info = re.sub(r'\n(?!\n)', ' ', header_info)
-        header_info = re.sub(r'\n(?!\n)', '\n\n', header_info)
+        if not mainIndexFile:
+            header_info = re.sub(r'\n(?!\n)', ' ', header_info)
+            header_info = re.sub(r'\n(?!\n)', '\n\n', header_info)
 
         # Extract key:value pairs and categorize them
         key_value_pattern = re.compile(r"^(.*?):\s(.*?)$", re.MULTILINE)
@@ -249,7 +263,6 @@ class listRuleSet(RuleSet):
         return html_content
 
 #Bosses
-# Most lists and text files
 class BossesRuleSet(RuleSet):
 
     def extract_content_sections(self, content, file_name):
@@ -332,6 +345,98 @@ class BossesRuleSet(RuleSet):
 
         if os.path.basename(file_name) == "index.txt":
             html_content = html_content.replace("Index", dir_name)
+        return html_content
+
+#FAQs
+class FaqsRuleSet:
+
+    def extract_content_sections(self, content, file_name):
+
+        def preprocess_newlines(text):
+            return re.sub(r'\n(?!\n|\d|-)', ' ', text)
+
+        def parse_lists(lines):
+            result = []
+            listStart = False
+            bulletListStart = False
+            for line in lines:
+                line = line.strip()
+                if not line:
+                    continue
+                if line.startswith('- ') or line.startswith('-'):
+                    if not bulletListStart:
+                        result.append('<ul>')
+                        bulletListStart = True
+                    result.append(f'<li>{line[1:].strip()}</li>')
+                elif re.match(r'^\d+\.\)', line) or re.match(r'^\d+\.', line):
+                    if bulletListStart:
+                        result.append('</ul>')
+                        bulletListStart = False
+                    line = re.sub(r'^\d+\.\)?', '', line).strip()
+                    if not listStart:
+                        result.append('<ol>')
+                        listStart = True
+                    result.append(f'<li>{line}</li>')
+                else:
+                    if listStart:
+                        result.append('</ol>')
+                        listStart = False
+                    if bulletListStart:
+                        result.append('</ul>')
+                        bulletListStart = False
+                    result.append(f'{line}\n')
+
+            if listStart:  # Close the ordered list if it's still open
+                result.append('</ol>')
+            if bulletListStart:  # Close the unordered list if it's still open
+                result.append('</ul>')
+
+            return ''.join(result)
+
+        def parse_answer(lines, start_index):
+            answer_lines = []
+            i = start_index
+            while i < len(lines):
+                line = lines[i].strip()
+                if line.startswith('Q:'):
+                    break
+                if line.startswith('A:'):
+                    answer_lines.append(line[2:].strip())  # Skip the 'A:'
+                else:
+                    answer_lines.append(line)
+                i += 1
+            return parse_lists(answer_lines), i - 1
+
+        def process_line(question, answer):
+            return (f'<h3 class="question">Q: {question}</h3>\n'
+                    f'<b class="question">A</b>: {answer}')
+
+        # Preprocess the content first
+        preprocessed_content = preprocess_newlines(content.strip())
+
+        section_content = []
+        lines = preprocessed_content.splitlines()
+        i = 0
+        while i < len(lines):
+            line = lines[i].strip()
+            if line.startswith('Q:'):
+                question = line[2:].strip()
+                i += 1
+                if i < len(lines) and lines[i].strip().startswith('A:'):
+                    answer, new_index = parse_answer(lines, i)
+                    section_content.append(process_line(question, answer))
+                    i = new_index
+            i += 1
+
+        sections = ["".join(section_content)]
+        return sections
+
+    def post_process_html(self, html_content, dir, file_name):
+        html_content = html_content.replace("default", "")
+        dir_path, dir_name = os.path.split(dir)
+        dir_name = dir_name.split(' ', 1)[1]
+        html_content = html_content.replace("Index", dir_name)
+
         return html_content
 
 # default Rules

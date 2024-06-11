@@ -1,7 +1,7 @@
 import re
 import os
 import json
-from lib.Rules.rules import RuleSet, VariantsRuleSet, listRuleSet, defaultRuleSet, DinosRuleSet, BossesRuleSet
+from lib.Rules.rules import RuleSet, VariantsRuleSet, listRuleSet, defaultRuleSet, DinosRuleSet, BossesRuleSet, FaqsRuleSet
 
 # Define the HTML template
 template = """<h1><span class="[OmegaClass]" style="background-color: rgba(211, 211, 211, 0.5); padding: 5px; border-radius: 10px;">[Title]</span></h1>
@@ -102,7 +102,7 @@ dir_class_map = {
     "#8 Items": (listRuleSet, 'list_config.json'),
     "#10 Mating": (listRuleSet, 'list_config.json'),
     "#11 Paragons": (listRuleSet, 'list_config.json'),
-    "#12 FAQs": (defaultRuleSet, 'default_config.json'),
+    "#12 FAQs": (FaqsRuleSet, 'faqs_config.json'),
     "#13 Links": (defaultRuleSet, 'default_config.json'),
     "#14 Changelog": (listRuleSet, 'list_config.json'),
     # Add more directories and corresponding classes as needed

@@ -125,6 +125,16 @@ hr {
     color: #51f3e3;
 }
 
+.question {
+    font-size: 1.25em;
+    color: #ff6347;
+}
+.answer {
+    font-size: 1.25;
+    font-weight: bold;
+    color: #51f3e3;
+}
+
 .list-key {
     font-size: 1.25em;
     color: #49bcff;
