@@ -13,3 +13,7 @@ To join the Hexen's Mods discord, please use the following invite code:
 Note: This is NOT the discord to the server you are playing on, but the discord for the Ark Omega mod.
 
 Ark Omega and its servers are sponsored by: Arkservers.io
+
+Github
+if you wish to contribute data or other changes to this unofficial Omegadex:
+<a href="https://github.com/Eidigii/omegadex">https://github.com/Eidigii/omegadex</a> 
