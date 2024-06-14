@@ -8,7 +8,7 @@ It will not correctly stack with most other dino mods, with the current sole exc
 
 Q: How does Progression work?
 
-A: Progression is very deep on several levels. Killing any of the wild variants will make it drop its soul, along with 5 essence for its Tier. You can craft any of the IO base kibble with some Basic Essence,
+A: Progression is very deep on several levels. Killing any of the wild variants will make it drop its soul, along with 5 essence for its Tier. You can craft any of the 10 base kibble with some Basic Essence,
 a soul, and any dino egg. From there, you must get an egg from a dino in that class to craft the next highest Kibble (Beta), and so on. A beta will need to be tamed to get a Beta egg for Alpha Kibble, and
 an Alpha Egg is needed to craft Prime Kibble, etc. It will be very easy to progress through multiple tiers within a single class before you progress through another. For example, you may very well reach
 Alpha or even Prime tier within the Elemental variants before you tame a single Cosmic dino. You continue this until you reach Omega. Taming Omegas is recommended to progress to mid-game
@@ -51,7 +51,7 @@ A: Yes. Both Tier and Variant will carry over when transferring dinos to other m
 
 Q: Why do Ark Omega creatures spawn at weird, random numbers?
 
-A: The numbers aren't weird. Ark's default level spawn system only allows 30 levels. It spawns dinos at a level between 1 and 30, and then multiplies the outcome by the difficulty. So on difficulty IO,
+A: The numbers aren't weird. Ark's default level spawn system only allows 30 levels. It spawns dinos at a level between 1 and 30, and then multiplies the outcome by the difficulty. So on difficulty 10,
 they can only spawn in increments of 10. Hex bypasses this and allow true random levels. The 1-30 system is extremely broken and Hex couldn't believe how many people have gotten hung up on it.
 Why are true random levels weird?
 
@@ -459,17 +459,17 @@ A: Mid game sets currently drop from wild Omegas (or Godlike/Ancient in no-tame)
 Zodiac.
 
 The chances are:
--Omegas: I-in-1000
--Beacon Bosses: I-in-500
--Titans: I-in-250
--Gods: I-in-IOO
+-Omegas: 1-in-1000
+-Beacon Bosses: 1-in-500
+-Titans: 1-in-250
+-Gods: 1-in-100
 
 Killing these on foot has 1Ox greater drop chances.
 
 
 Q: Whats the best way to farm souls?
 
-A: In a mod with —200k possible creatures, you can't expect a single dino as an answer. Chances are, you may never encounter that dino.
+A: In a mod with ~200k possible creatures, you can't expect a single dino as an answer. Chances are, you may never encounter that dino.
 However, here are some tips to greatly increase your soul farming efforts.
 
 1. The easiest way to increase the number of souls gotten is to change the INI setting for SpawnPercent to increase the number of Ark Omega creatures that spawn in. Setting it to 100 will make

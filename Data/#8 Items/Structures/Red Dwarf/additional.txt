@@ -1,0 +1,12 @@
+Crafting Requirements:
+Cosmic Soul: 10.0
+Alpha Essence: 50.0
+Metal Ingot: 100.0
+Crystal: 10.0
+
+Can Only Be Crafted At: Omega Workbench
+
+The Red Dwarf is crafted in the omega workbench. It gives 300% greenhouse effect to all
+nearby crop plots, even in caves. It is upgraded with the Blue Star, crafted in the Soul Grinder
+for 20 soul shards placed in its trophy slot, and grants 600% greenhouse effect when so
+upgraded.

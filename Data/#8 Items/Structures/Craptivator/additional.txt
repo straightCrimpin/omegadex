@@ -1,0 +1,10 @@
+Crafting Requirements:
+Wood: 50.0
+Thatch: 100.0
+Unstable Soul: 3.0
+Basic Essence: 15.0
+
+Can Only Be Crafted At: Omega Workbench
+
+The Craptivator is crafted in the omega workbench. It is a structure where you can craft dino
+beer and etc.

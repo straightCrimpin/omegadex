@@ -1,0 +1,39 @@
+Ark Omega 6/13 Patch Notes:
+
+-System implemented to spawn a new miniboss whenever one is killed.
+-Miniboss spawn rate miracle added.
+-Boss icon for tracker effects is now red instead of white.
+-Omega Max dinos now show as a rainbow colored Omega symbol to tracker effects.
+-Further reduced net gun tracker effects to 150 targets to prevent crashing.
+-Fixed a broken interface link preventing minibosses from rewarding species/variant specific paragons.
+-Implemented additional dino reference checks on variants for better replication reliability on names, skins, particles, and more.
+-Fixed a bug preventing Supernova from populating on various spawn commands in the admin panel.
+-Group Masters can now be summoned from the Altar using one of each Master soul from a group (non-7th variants).
+-Show Combinations button re-added to the altar.
+-Particle effects and camera shake removed from the altar.
+-The egg collector data in the guide is no longer blank before dinos have been integrated.
+-AI Controlled comet variants now summon the Comet directly over their target instead of in front of them. Ridden comet variants will still summon them in front of them.
+-Egg Collectors will now "consume" the data from other egg collectors placed in their inventory, combining the total egg counts. This will also work on the separate Egg Collector modded structure.
+-Saddle carts can no longer be imbued. Ones that are already imbued provide no bonuses to tames. 
+-Fixed a bug in the damage detection system that could prevent Cursed variants from applying debuffs when attacking.
+-Fixed a bug that could prevent lucky variants from giving the aggro debuff when attacked.
+-Miracle, Piggyback, Egg Collector, Player Tiers, and Quest data are not filled in the guide immediately, but instead added to the guide when the navigation buttons are clicked to allow the guide to open more reliably.
+-The guide no longer forces a full data-pull for scoreboard info each time you click the button while the guide is still open. It will only request the info one time, for performance.
+-The piggyback system has been added.
+-Fixed a bug where miracles that increase beacon spawn levels weren't working correctly due to an invalid reference.
+-Fixed a bug where player ranks weren't being updated correctly on the scoreboard due to an invalid reference.
+-Experimental System added to force true max levels on wild dinos, which will clamp their level ranges based on their tier, and allow max wild level miracles to work correctly.
+-Mid Game unique weapons re-added, and are able to be dropped now from killing Prime or above wild dinos, or any type of boss (miniboss included).
+-Mid game unique weapons added to the admin panel spawn commands.
+-Updated reliability issues with the scoreboard information populating correctly into the guide.
+-Fixed particle effects on Vengeance, Eclipse, Beyonder, Diversion, Abduction, Reaver, Apollo sets.
+-Fixed the "bouncing egg" problem on fertilized eggs that could cause physics crashes.
+-Fixed a bug allowing infinite Master Souls to be withdrawn from the Soul Compressor.
+-Updated the description in the Soul Compressor inventory.
+-Fixed a bug causing engram unlocks to only work while riding a dino.
+-Updated the Master Soul description to show that it can be used in the Altar to summon a Group Master.
+-Variant paragons can no longer be used on dinos wearing a cursed saddle that provides that variant. 
+-Equipped a saddle cursed with the paragon variant will no longer complete all 10 paragon soul quests for your tame. 
+-Getaway Orb now clears any movement tethers the player may have had from grapples or dinos to allow them to mount their summon and escape.
+-Getaway Orb minions no longer go to the Reliquary. 
+-Phoenix dinos no longer lose a tier when sent to the Reliquary (This does not apply to the Phoenix variant being applied via Cursed Saddle).

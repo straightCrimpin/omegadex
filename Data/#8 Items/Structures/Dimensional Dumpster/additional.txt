@@ -1,0 +1,11 @@
+Crafting Requirements:
+Metal Ingot: 20.0
+Polymer: 10.0
+Ethereal Soul: 3.0
+Basic Essence: 15.0
+
+Can Only Be Crafted At: Omega Workbench
+
+The Dimensional Dumpster is crafted in the omega workbench. It is a structure you can assign
+items you wish to be destroyed without trace to, and have them sent directly there when
+dropped into a void vacuum.

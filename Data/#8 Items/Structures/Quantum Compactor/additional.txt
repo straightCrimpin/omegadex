@@ -1,0 +1,11 @@
+Crafting Requirements:
+Metal Ingot: 20.0
+Polymer: 10.0
+Utility Soul: 3.0
+Basic Essence: 15.0
+
+Can Only Be Crafted At: Omega Workbench
+
+The Quantum Compactor is crafted in the omega workbench. It is a storage container that,
+when items without unique data are placed in it and the compact button is pressed, stores
+them as data in a list. Items compacted in this way are weightless and cannot spoil.

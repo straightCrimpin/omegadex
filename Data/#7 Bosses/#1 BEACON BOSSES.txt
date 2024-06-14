@@ -3,6 +3,7 @@ These are the first group of bosses you will fight, unless you've attacked a wil
 The Omega Beacon is unlocked by killing a wild Omega tier. You will unlock the Tekgram, and can craft it at the
 Omega Workbench. The Omega Beacon can be used to summon wild tameable creatures, or you can place 100
 souls inside to summon a Beacon Boss.
+
 These bosses will spawn with a variant from the group of souls you have used in the beacon. These bosses
 cannot be tamed. They must be killed. Killing them rewards a small amount of loot, including Element, and a
 Boss Soul, which will appear as a bright glowing soul on the ground. They will also unlock various Tek Engrams,

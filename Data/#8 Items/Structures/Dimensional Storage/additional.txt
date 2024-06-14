@@ -1,0 +1,11 @@
+Crafting Requirements:
+Metal Ingot: 20.0
+Polymer: 10.0
+Ethereal Soul: 3.0
+Basic Essence: 15.0
+
+Can Only Be Crafted At: Omega Workbench
+
+The Dimensional Storage is crafted in the omega workbench. It's a 1000 slot storage container
+that also functions as a refrigerator and that can have items set to it so that when they're
+dropped into a void vacuum, they will be automatically sent to the assigned storage box.

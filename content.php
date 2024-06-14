@@ -41,7 +41,11 @@ function getImagesContent($folder) {
             $ext = pathinfo($file, PATHINFO_EXTENSION);
             if ($file == 'additional.txt') {
                 $addontext = nl2br(file_get_contents(realpath(__DIR__. '/Data/' . urldecode($folder) . '/additional.txt')));
-                $imagesHtml = $addontext . $imagesHtml;
+                if (strpos($folder, 'Items') !== false) {
+                    $imagesHtml =  $imagesHtml . $addontext;
+                } else {
+                    $imagesHtml = $addontext . $imagesHtml;
+                }   
             }
             if (in_array(strtolower($ext), $imageTypes)) {
                 $relativePath = str_replace(realpath($_SERVER['DOCUMENT_ROOT']), '', $folderPath . DIRECTORY_SEPARATOR . $file);

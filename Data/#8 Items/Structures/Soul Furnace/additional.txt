@@ -1,0 +1,13 @@
+Crafting Requirements:
+Metal Ingot: 100.0
+Stone: 1000.0
+Cementing Paste: 100.0
+Resource Soul: 30.0
+Alpha Essence: 30.0
+
+Can Only Be Crafted At: Omega Workbench
+
+The Soul Furnace is crafted in the omega workbench. It is a structure used to cook meat, craft
+jerky and sweet vegetable cakes, and smelt metal. It does all of these things instantly when
+equipped with a soul furnace intensifier, crafted for 20 soul shards in the soul grinder
+structure.

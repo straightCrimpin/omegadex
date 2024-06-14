@@ -1,0 +1,12 @@
+Crafting Requirements:
+Basic soul: 500.0
+Delta Essence: 100.0
+Stone: 2500.0
+Black Pearl: 100.0
+Cementing Paste: 500.0
+
+Can Only Be Crafted At: Omega Workbench
+
+The Omega Altar is a tekgram that is unlocked by killing a corrupted master, crafted in the
+omega workbench. It is a structure used to summon the later progression bosses with multiple
+master and higher souls.

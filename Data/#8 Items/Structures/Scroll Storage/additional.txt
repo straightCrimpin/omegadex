@@ -1,0 +1,11 @@
+Crafting Requirements:
+Metal Ingot: 20.0
+Mythical Soul: 3.0
+Basic Essence: 15.0
+
+Can Only Be Crafted At: Omega Workbench
+
+The Scroll Storage is crafted in the omega workbench. It is a customizable structure that can
+hold blueprints and quest scrolls, and have them sorted to it. Automatic sorting options
+include by quality (primitive-ascendant), by type (weapon, saddle, armor, quest scroll), and an
+auto-destroy function.

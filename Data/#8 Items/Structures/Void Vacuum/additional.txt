@@ -1,0 +1,11 @@
+Crafting Requirements:
+Metal Ingot: 50.0
+Cosmic Soul: 3.0
+Alpha Essence: 15.0
+
+Can Only Be Crafted At: Omega Workbench
+
+The Void Vacuum is crafted in the omega workbench. It is a part of the dimensional network
+and, when the option is enabled, can send items across the map with no maximum range to
+your set mannequins, dimensional storages, dimensional grinder, quantum compactor,
+dimensional dumpster, and soul compressor.

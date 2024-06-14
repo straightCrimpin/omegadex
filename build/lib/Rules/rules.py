@@ -267,10 +267,15 @@ class BossesRuleSet(RuleSet):
 
     def extract_content_sections(self, content, file_name):
 
-        # Preprocess the content to handle newlines. Combine lines seperated with a single newline
-        # unless the next line beings with a digit or a -, indicating that it's a list item.
+        # Preprocess the content to handle newlines. Combine lines separated with a single newline
+        # unless the next line begins with a digit or a -, indicating that it's a list item.
         def preprocess_newlines(text):
+            # Replace double (or more) newlines with a placeholder
+            text = text.replace('\n\n', '[newline]')
+            # Combine single newlines unless the next line begins with a digit or a dash
             text = re.sub(r'\n(?!\n|\d|-)', ' ', text)
+            # Restore placeholders to double newlines
+            text = text.replace('[newline]', '\n\n')
             return text
 
         # Preprocess the content first
@@ -282,7 +287,7 @@ class BossesRuleSet(RuleSet):
         rest_content = rest[0] if rest else ""
 
         # Extract key:value pairs and categorize them
-        key_value_pattern = re.compile(r"^(\b\w+\b\s?){0,3}:\s(.*?)$", re.MULTILINE)
+        key_value_pattern = re.compile(r"^((?:\b\w+\b\s?){1,4}):\s(.*?)$", re.MULTILINE)
         sections = ["", ""]  # Initialize with 2 sections
         section_content = []
 
@@ -300,13 +305,13 @@ class BossesRuleSet(RuleSet):
                 continue
             if key_value_pattern.match(line):
                 key, value = key_value_pattern.match(line).groups()
-                section_content.append(f'<span class="list-key"><h3>{key}:</h3>\n</span>')
-                section_content.append(f'{value}')
+                section_content.append(f'<span class="list-key"><h3>{key}:</h3></span>\n')
+                section_content.append(f'{value}\n')
             elif line.startswith('- ') or line.startswith('-'):
                 if not bulletListStart:
                     section_content.append('<ul>')
                     bulletListStart = True
-                section_content.append(f'<li>{line[1:]}</li>')
+                section_content.append(f'<li>{line[1:].strip()}</li>')
             elif re.match(r'^\d+\.\)', line) or re.match(r'^\d+\.', line):
                 if bulletListStart:
                     section_content.append('</ul>')

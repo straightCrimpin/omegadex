@@ -1,0 +1,9 @@
+Crafting Requirements:
+Metal: 10.0
+Wood: 20.0
+Fiber: 10.0
+
+Can Only Be Crafted At: Omega Workbench
+
+The Kibble Machine is crafted in the omega workbench. It is the structure used to craft every
+tier and variant's taming kibble.

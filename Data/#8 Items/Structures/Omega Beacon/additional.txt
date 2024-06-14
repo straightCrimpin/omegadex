@@ -1,0 +1,22 @@
+Crafting Requirements:
+Basic Soul: 40.0
+Metal Ingot: 2500.0
+Crystal: 250.0
+Black Pearl: 80.0
+Polymer: 320.0
+
+Can Only Be Crafted At: Omega Workbench
+
+The Omega Beacon is a tekgram unlocked by killing a prime or higher tier dino, crafted in the
+omega workbench. It is a structure used to sacrifice souls to summon dinos to tame (10-99
+soul summon) or bosses to kill (100 souls). It is vital to progression.
+
+Tier spawn chances at various soul intervals-
+Values are interpolated between these setpoints.
+Basic / Delta / Gamma / Beta / Alpha / Elite
+10 Souls - 70 / 20 / 10 / 0 / 0 / 0
+28 souls - 15 / 70 / 15 / 0 / 0 / 0
+46 Souls - 5 / 10 / 70 / 10 / 5 / 0
+64 Souls - 0 / 5 / 10 / 70 / 10 / 5
+82 Souls - 0 / 0 / 0 / 15 / 70 / 15
+99 Souls - 0 / 0 / 0 / 10 / 20 / 70
