@@ -1,0 +1,12 @@
+Crafting Requirements:
+Nightmare Soul: 50.0
+Hide: 30.0
+Elite Essence: 10.0
+
+Can Only Be Crafted At: Omega Workbench
+
+The Cursed Idol is crafted in the omega workbench. It is a structure where you can place
+imbued non-set armor to curse it. Curses include the additive curse (remove one imbue, add
+three to five new ones), double curse (remove one imbue, double the stats of all the remaining
+ones) and multiplier curse (multiply one imbue by up to the number of imbues on the item,
+halve all the rest).

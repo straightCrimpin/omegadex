@@ -13,7 +13,7 @@ Fear Cooldown: 20s
 Fear Stamina Cost: 10%
 Fear Radius: 3000 (10 foundations)
 Fear Duration: 8s
-Taunt Cooldown: IOS
+Taunt Cooldown: 10s
 Taunt Stamina Cost: 10%
 Taunt Radius: 4000 (13.33 foundations)
 Damage Reduction While Taunting: 75%

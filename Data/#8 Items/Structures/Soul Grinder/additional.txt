@@ -1,0 +1,13 @@
+Crafting Requirements:
+Utility Soul: 10.0
+Elite Essence: 30.0
+Metal: 250.0
+
+Can Only Be Crafted At: Omega Workbench
+
+The Soul Grinder is crafted in the omega workbench. It is a structure used to break down
+variant souls, boss souls, master souls, and above into soul shards, and paragons into paragon
+shards. Additionally, it is used to craft tier upgrade tokens for specific dino species with
+essence and the species' paragon soul (for instance, a token to make a gamma dilophosaur
+beta is made with one dilophosaur paragon and one hundred beta essence) and upgrades for
+the soul furnace and red dwarf with soul shards.

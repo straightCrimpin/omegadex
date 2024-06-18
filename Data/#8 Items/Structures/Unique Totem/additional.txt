@@ -1,0 +1,10 @@
+Crafting Requirements:
+Silica Pearls: 20.0
+Guardian Soul: 3.0
+Basic Essence: 15.0
+
+Can Only Be Crafted At: Omega Workbench
+
+The Unique Totem is crafted in the omega workbench. It is a structure that automatically
+receives unique and legendary items from the void vacuum. It has options to choose what is
+automatically stored in it — weapons, saddles, charms, or medallions.

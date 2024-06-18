@@ -3,6 +3,7 @@ The Gods are powerful mid-game bosses. Meant to be the strongest of their varian
 versions of their abilities. It is not recommended to move into fighting Gods until you are able to farm a Prime
 tier beacon boss of that variant. However with great risk, comes great reward. The Gods offer something of
 great value, their soul. Unlike a Boss Soul, the God Soul has other benefits.
+
 Summon a God by placing a Boss Soul into the God Egg. The God Egg will be unlocked when killing a beacon
 boss and can be crafted in the Omega Workbench. The variant/tier of the God will match that of the Boss Soul
 used to create it. Make sure you always summon a basic tier God first, before attempting to move onto the

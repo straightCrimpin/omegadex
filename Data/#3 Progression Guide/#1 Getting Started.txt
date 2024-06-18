@@ -1,4 +1,4 @@
-New character? First time playing? Here are the things you need to know immediately.
+<h3>New character? First time playing? Here are the things you need to know immediately.</h3>
 
 1.) You have a newbie buff, with a countdown timer in your buff list at the bottom right. This gives you damage reduction, increased magic find
 (increases dynamic item drop rate, like Unique Weapons and Set Armors), bonus experience gain, and makes wild creatures ignore you unless
@@ -8,7 +8,7 @@ provoked. Make use of it, because once it wears out, they will come after you, a
 -The Gathering Tool works as a Metal Hatchet and Metal Pick. Middle mouse button to switch modes.
 -The Gathering Sickle works the same as using your hands to harvest, but at 7x the rate.
 
-The things you should focus on first:
+<h4>The things you should focus on first:</h4>
 1.) Using your starting tools to gather resources and level up.
 2.) Finding weak dinos like vanilla dodos to kill for hide and experience.
 3.) Establish a small temporary base, in a cave or a safe area, away from any danger.
@@ -18,7 +18,7 @@ The things you should focus on first:
 7.) If you havent already, craft some armor, even if its primitive Cloth.
 8.) Imbue your armor in the Imbue Workbench using the highest tier essence you can afford.
 
-Here are some things you should know while getting started.
+<h4>Here are some things you should know while getting started.</h4>
 1.) Dying Creatures will reward Souls/Essence in a small area. You do not need to make the kill.
 2.) Imbue a full set of primitive gear with your first 5 Omega essence for a great stat boost.
 3.) Resource dinos will periodically poop 5 of their designated resource and can be harvested for more.

@@ -9,6 +9,7 @@ Boss progression goes as follows:
 3. Group Gods
 4. Unique Group Gods
 5. Zodiac
+
 World Bosses such as the Titans are not needed for progression, but are very important for many features.
 
 Boss Difficulty:

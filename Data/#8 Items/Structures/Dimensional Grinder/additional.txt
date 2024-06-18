@@ -1,0 +1,12 @@
+Crafting Requirements:
+Metal Ingot: 20.0
+Oil: 10.0
+Ethereal Soul: 3.0
+Basic Essence: 15.0
+
+Can Only Be Crafted At: Omega Workbench
+
+The Dimensional Grinder is crafted in the omega workbench. It is used to break down both
+modded and vanilla items to receive approximately 60% of their crafting materials, and also to
+break essence down to lower tier essence at a rate of 1 higher quality essence to 3 lower
+quality essence.
