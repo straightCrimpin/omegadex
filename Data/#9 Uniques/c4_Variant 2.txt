@@ -46,6 +46,7 @@ Obsidian
 Lightningburst
 Gorgon
 Essence
+Brutal
 Necromancer
 Meteor
 Banshee
@@ -70,6 +71,7 @@ Dimensional
 Stone
 Necromancer
 Paragon
+Gorgon
 Spiritual
 Supernova
 Farmer
@@ -118,6 +120,7 @@ Brutal
 Fairy
 Obsidian
 Pearl
+Loot
 Thunderstorm
 Zombie
 Uncontrollable
@@ -135,6 +138,7 @@ Windburst
 Vampire
 Stalker
 Vampire
+Ghost
 Frenzy
 Colossus
 Iceburst

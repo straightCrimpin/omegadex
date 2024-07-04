@@ -1,0 +1,20 @@
+Crafting Requirements:
+Metal Ingot: 10.0
+Crystal: 10.0
+Cementing Paste: 10.0
+
+Can Only Be Crafted At: Omega Workbench
+
+This structure is used to integrate egg layers so that their eggs are passively produced. This
+prevents a great deal of potential negative performance cases where many dinos are left out
+in the world to drop eggs. Integrating a dino will permanently destroy it, but it's egg type will
+be saved to the Omega Egg Collector, and it will be passively produced using standard Ark
+egg laying timers, although it uses the Oviraptor boost timer. This means that each
+integrated egg layer has a 13% chance to lay an egg every 11 minutes. To speed up this rate,
+integrate more female egg layers. Additional things to consider: A chart of your tribe's
+integrated egg layers displays on the Omegadex, the rate at which eggs are produced can be
+increased in the admin panel of the Omegadex, egg generation can be disabled for individual
+egg types by opening the inventory and clicking the Manage button, other Omega Egg
+Collectors or Egg Collectors from my standalone mod can be combined by picking them up
+and placing them in the inventory of an Omega Egg Collector, and wild female Dodos can be
+integrated into the Omega Egg Collector in No-Tame.

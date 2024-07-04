@@ -46,6 +46,7 @@ Dread
 Superconductor
 Misery
 Innocence
+Thomas
 Host
 Solar
 Cazador
@@ -70,6 +71,7 @@ Sharknado
 Sloth
 Lich King
 Otis
+Sid
 Flash
 Octavia
 Shepherd
@@ -118,6 +120,7 @@ The Lord Of Slaps
 Dryad
 Chesty Puller
 Halley
+Solid
 Surge
 Horde
 Dawson
@@ -135,6 +138,7 @@ Pollution
 Scooby
 Spirit
 Brood
+Fright
 Leonardo
 Cthulhu
 Abominable

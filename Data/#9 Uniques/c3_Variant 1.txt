@@ -46,6 +46,7 @@ Boogeyman
 Collective
 Singularity
 Soul
+Rampage
 Siren
 Starfire
 Rampage
@@ -70,6 +71,7 @@ Tornado
 Reflect
 Frenzy
 Absorbent
+Thunderstorm
 Lightningburst
 Meteor
 Familiar
@@ -118,6 +120,7 @@ Thunderstorm
 Reflect
 Supernova
 Comet
+Disruptor
 Eruption
 Overlord
 Colossus
@@ -135,6 +138,7 @@ Earthburst
 Dimensional
 Supernova
 Cloner
+Overlord
 Astral
 Dimensional
 Stone

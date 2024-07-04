@@ -4,6 +4,7 @@ can be striken by multiple meteors leading to incredible health loss. The number
 meteors can be random at times, as are the impact locations. Flying meteor dinos are able
 to quickly swoop over an area, barrage it with meteors and fly away, making them
 excellent for farming kills.
+
 Pressing Prone(X) calls down a cluster of meteors from the sky. They will impact random
 locations in the direct viscinity of the Meteor creature.
 

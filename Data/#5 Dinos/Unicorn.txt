@@ -8,6 +8,10 @@ Unique Name: Innocence
 Variants: Soul / Essence
 Spawn Weight: 1.0
 
+Unique Name: Thomas
+Variants: Rampage / Brutal
+Spawn Weight: 1.0
+
 Food Types:
 Amarberry
 Azulberry
