@@ -46,6 +46,7 @@ Dunkleosteus
 Electrophorus
 Equus
 Unicorn
+Unicorn
 Eurypterid
 Titanomyrma Soldier
 Titanomyrma Soldier
@@ -68,6 +69,7 @@ Manta
 Megalania
 Megalodon
 Megalosaurus
+Megatherium
 Megatherium
 Megatherium
 Microraptor
@@ -118,6 +120,7 @@ Spino
 Megaloceros
 Megaloceros
 Stegosaurus
+Stegosaurus
 Tapejara
 Terror Bird
 Terror Bird
@@ -134,6 +137,7 @@ Beelzebufo
 Triceratops
 Triceratops
 Trilobite
+Troodon
 Troodon
 Carbonemys
 Tusoteuthis

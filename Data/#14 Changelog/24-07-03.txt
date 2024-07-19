@@ -1,0 +1,100 @@
+Ark Omega 7/3 Patch Notes:
+
+Dinos:
+-Group Masters now properly drop souls/essence.
+-Guardian Master is now a Carbonemys instead of a Rock Elemental.
+-Fixed a bug causing level 300 Omega dinos to not get 100 paragons.
+-Added a toggle to the Hades Torch to toggle the light.
+-Fixed the toggle button for flight for consoles on Dimensional tames.
+-Fixed the lag created when a Soul boss/master/etc is killed.
+-Implemented some verification settings for Masters to make sure their variants are definitely random.
+-Fixed a bug with Gorgon causing invulnerability to anything it turns to stone.
+-Fixed a bug with tameable bosses not eating any food normally.
+-Minibosses are now immune to damage impulse.
+-Fixed crashes from Raptor pounce.
+-Fixed an issue with female Titanoboas being invisible.
+-Dino levels are no longer green when at max level when spotted by a Tracker variant since all untameable tiers are now above the server max level.
+-Dragon sound volume reduced by 80%.
+-Stamina drain damage type used by Ants, Meganeura, and Kapros is now 10% of damage as stamina lost each second instead of 200% of damage as stamina lost over 4 seconds (~80% reduced effectiveness).
+-Tracker dinos can now track all tiers, regardless of their own tier. It is instead the range that will increase with tier.
+-Minibosses now always spawn level 1.
+-Minibosses spawn with up to 10 paragon levels, with each level increasing their rewards by 10%.
+-Piggybacking in bosses will now remove them from the Hoarder Chest spawns.
+-Reduced Meganeura base health from 145 to 45.
+-Fixed multiple bugs with the reflect variant, such as it not activating properly when taking damage and the particles always being visible.
+-Fixed a bug preventing Fairy dinos from attacking while actively healing.
+-Updated the minion spawning system to allow for greater flexibility.
+-Unique Group Masters can now be summoned with matching Group Master souls.
+-Bosses now give 5 essence per tier.
+
+Structures:
+-Fixed a bug where boss/master souls in the soul compressor would roll over to 0 after 255. Unfortunately the cap will remain at 255. Additional won't be compressed.
+-The gauntlet beacon now has the correct land/water dino types sorted when placing it (this will auto-fix itself on server restarts as well).
+-Added safety checks into the Cursed Idol to fix a potential null-pointer issue that could have you receive error messages about not being able to curse already-cursed items when they were no longer highlighted.
+-Fixed the tier order in the gauntlet beacon.
+-Gauntlet beacon functionality temporarily disabled as people can't seem to state which beacon they're using when reporting bugs and I can't keep trying to track them down.
+-The Soul Furnace is now instant craft without the upgrade module, and the ugprade module has been removed from the soul grinder. Also removed the trophy slot.
+-The Soul Furnace's soul consumption greatly increased.
+-Updated icon and structure material for the Egg Collector.
+-Updated materials on Imbue Workbench and Omega Workbench.
+-New mesh courtesy of Zythara for Soul Furnace and Soul Grinder, along with new materials and icons.
+-Updated the material and icon on the Omega Beacon to match the other meshes made by Zythara.
+-The Omega Egg Collector added to the items/structures section of the Omegadex, with a ton of information on how it works.
+-The egg collector can now integrate wild dodos in No-Tame mode.
+-Unique Group Master summoning mechanics added to the Omega Altar.
+-Combination list on the Altar updated.
+
+Items:
+-Fixed a bug with unique/legendary stat potions not providing the correct number of points.
+-Fixed a bug with not automatically mounting the getaway orb dinos due to them not getting a saddle when summoned.
+-Getaway orb dinos will now be mounted even if they don't get a saddle on summon.
+-Netgun max pings lowered to 100 in a last-ditch effort to fix the crashing before the entire system is reworked.
+-"Basic" has been added to the beginning of all basic tier eggs.
+-Quest scrolls now drop as a brownish color to help them be seen in the snow.
+-Fixed a bug preventing crafted gear from being cursed.
+-Fixed a bug causing Outburst to not get all of the essence selections.
+-Full set bonus of "Getaway minions have unique saddles" on piper swapped with "Getaway minions gain paragons based on quality level of piper gear".
+-Fixed a bug preventing Over-Easy from highlighting hoarder chests.
+-Stat potions will no longer drop in No-Tame.
+-Metal Ingot quantity required for crafting Icicle reduced.
+-Affinity medallion drop chance reduction based on species removed. All species now have the same % chance to drop an affinity medallion when killed.
+-"Basic" tier added to the name on basic tier boss/master/group master souls.
+-Heartsong Arrows now require Elite essence and not Prime Essence, and the essence cost has been reduced.
+-Fire Pact Minions also have the Spiritual Variant, instead of replacing it entirely with Fire.
+-Ethereal Spear can now be thrown underwater while wearing full Soul Scream.
+-Unique/Legendary weapons now have Unique or Legendary on the bottom left of their icons.
+-Omega Rafts can no longer be feared.
+-Text Updated on Boomstick, Warp Bow, Hades Torch, Gathering Tool, and Multi-Tool to show which buttons are needed to swap modes.
+-Fixed a bug allowing token-created set armors to be fragmented when sent through the auto fragment feature of the set mannequin.
+-String Theory tether now only works while the bow is equipped. Unequipping the bow will remove the tether.
+-Fixed a bug allowing single pieces of set items to give full set bonuses if equipped with imbued armor with very specific bonuses.
+-Fixed some text spacing on Master souls.
+-7th variant Master souls no longer say they can be used to summon another boss.
+-Reduced third-person hades torch light intensity.
+-Fixed misc minion bugs with the Cloner Staff (and its unique version).
+-Unique Group Master soul now unlocks Ancient Tier for tames.
+-Variant paragons now all grind for 5 paragon shards in the soul grinder.
+-Group Master souls can now be ground down in the Soul Grinder.
+-Unique Group Master souls can now be ground down in the Soul Grinder.
+
+Guide:
+-Admin settings are now passed into the guide when those screens are opened instead of as the guide is opened.
+-The guide is now opened entirely client side and doesn't pass through the server, fixing the problems with it not opening correctly.
+-BreedingMode INI can now be toggled via admin panel and no longer increases boss difficulty. Anything else it could potentially effect due to changes in RNG and % rates will remain.
+-Fixed a bug with the piggyback system not properly saving the inserted information from the guide.
+-Setting added to the admin panel to prevent NPC spawns.
+-Level range limit on dino spawns in the Omegadex is now capped at 1000 and not the server's maximum level.
+-Early game legendary weapon spawn command added to the admin panel.
+-Quest cancellation now works in all languages.
+-Unique Group Master spawn command added to the Admin panel.
+
+Other:
+-Fixed yet another bug with engram unlocks due to a failed bool check.
+-"Dimensional Sort" button added to the inventory screen that cleans out your inventory and sorts all of your items, from anywhere on the map. It will not sort items that are in folders, or do not have structures set up for them.
+-Updated dino data arrays to allow for Zytharian Critter compatibility (coming soon).
+-"Dont Sort" folder given to players to prevent sorting.
+-Omega's "prevent hibernation" system removed in an attempt to help consoles keep up with the RAM demands.
+
+Uniques:
+-New uniques added for tournament prizes: Megatherium, Troodon, Stego.
+-Unique added in memoriam: Unicorn.

@@ -8,6 +8,10 @@ Unique Name: Halley
 Variants: Comet / Pearl
 Spawn Weight: 1.0
 
+Unique Name: Solid
+Variants: Disruptor / Loot
+Spawn Weight: 0.25
+
 Food Types:
 Amarberry
 Azulberry

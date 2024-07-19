@@ -8,6 +8,10 @@ Unique Name: Brood
 Variants: Cloner / Vampire
 Spawn Weight: 1.0
 
+Unique Name: Fright
+Variants: Overlord / Ghost
+Spawn Weight: 0.5
+
 Food Types:
 Raw Meat
 Cooked Meat

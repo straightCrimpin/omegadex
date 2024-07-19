@@ -12,6 +12,10 @@ Unique Name: Otis
 Variants: Absorbent / Paragon
 Spawn Weight: 0.1
 
+Unique Name: Sid
+Variants: Thunderstorm / Gorgon
+Spawn Weight: 0.5
+
 Food Types:
 Raw Meat
 Cooked Meat
